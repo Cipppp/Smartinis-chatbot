@@ -7,13 +7,11 @@ CC = g++
 CFLAGS  = -g -Wall
 
 # The build target
-TARGET1 = test
-TARGET2 = test2
-TARGET3 = test3
+TARGET = main
 
-all: $(TARGET1)
 
-build: $(TARGET1).cpp
-		g++ strings.cpp main.cpp -o $(TARGET1)
+
+build: 
+		g++ strings.cpp main.cpp
 makeclean:
-		$(RM) $(TARGET1).cpp
+		$(RM) $(TARGET)

@@ -12,9 +12,6 @@ typedef struct {
 
 class Chatbot {
    public:
-    Chatbot();
-    ~Chatbot();
-
     void getInput();
     void respond();
 
