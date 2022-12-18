@@ -2,10 +2,8 @@
 #define __STRING_H__
 
 // pragma to disable warning for strcpy
-#pragma(warning(disable : 4996))
-
-#include <string.h>
-
+#pragma warning(disable : 4786)
+#include <string>
 #include <vector>
 
 using namespace std;
