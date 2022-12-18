@@ -12,8 +12,16 @@ typedef struct {
 
 class Chatbot {
    public:
+    Chatbot(string str) : chatbotName(str), quitProgram(0), userInput("null ") {
+        seedRandomGenerator();
+    }
+
+    ~Chatbot() {}
+
     void getInput();
     void respond();
+
+    void signOn();
 
     bool isQuit() const {
         return quitProgram;
@@ -52,8 +60,8 @@ class Chatbot {
     }
 
     // set event to argument
-    void setEvent(string event) {
-        this->event = event;
+    void setEvent(string str) {
+        event = str;
     }
 
     // save input to backup
@@ -73,61 +81,59 @@ class Chatbot {
 
     // print response if not empty
     void printResponse() {
-        if (!response.empty()) {
-            cout << chatbotName << ": " << response << endl;
+        if (response.length() > 0) {
+            std::cout << response << std::endl;
         }
     }
 
     // preprocess input
-    void preprocessInput() {
-        cleanString(userInput);
-        upperCase(userInput);
-    }
+    void preprocessInput();
 
     // return chatbot repeat if response is same as previous response and not empty
     bool isChatbotRepeat() const {
-        return response == prevResponse && !response.empty();
+        return (prevResponse.length() > 0 &&
+                response == prevResponse);
     }
 
     // return user repeat if input is same or similar to previous input and not empty
-    bool isUserRepeat() const {
-        return userInput == prevInput || userInput.find(prevInput) != string::npos || prevInput.find(userInput) != string::npos && !userInput.empty();
-    }
+    bool isUserRepeat() const;
 
     // return boolean if chatbot understands input
     bool isUnderstood() const {
-        return !response.empty();
+        return responseList.size() > 0;
     }
 
     // return boolean for null input or previous input
     bool isNullInput() const {
-        return userInput.empty() || prevInput.empty();
+        return (userInput.length() == 0 && prevInput.length() == 0);
     }
 
     // return boolean if users wants to quit
     bool userQuits() const {
         // if you find the word (make it lowercase) quit in the input string return true
-        return userInput.find("QUIT") != string::npos;
+        return userInput.find("BYE") != std::string::npos;
     }
 
     // return boolean if same event and is not empty event
     bool isSameEvent() const {
-        return event == prevEvent && !event.empty();
+        return (event.length() > 0 && event == prevEvent);
     }
 
     // return boolean if there is no response
     bool isNoResponse() const {
-        return response.empty();
+        return responseList.size() == 0;
     }
 
     // Check if input is the same
     bool isSameInput() const {
-        return userInput == prevInput;
+        return (userInput.length() > 0 && userInput == prevInput);
     }
 
     // return boolean if input is not empty and there are similar inputs
     bool isSimilarInput() const {
-        return !userInput.empty() && (userInput.find(prevInput) != string::npos || prevInput.find(userInput) != string::npos);
+        return (userInput.length() > 0 &&
+                (userInput.find(prevInput) != std::string::npos ||
+                 prevInput.find(userInput) != std::string::npos));
     }
 
    private:
