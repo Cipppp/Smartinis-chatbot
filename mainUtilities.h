@@ -40,7 +40,7 @@ class Chatbot {
 
     // select a response using shuffle function
     void selectResponse() {
-        suffleArray(responseList, responseList.size());
+        shuffleArray(responseList, responseList.size());
         response = responseList[0];
     }
 

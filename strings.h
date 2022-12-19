@@ -18,7 +18,7 @@ void upperCase(string &str);
 void copy(char *array[], vectorString &v);
 
 template <typename T>
-void suffleArray(T &array, size_t size) {
+void shuffleArray(T &array, size_t size) {
     for (int i = 0; i < size; i++) {
         int j = rand() % size;
         swap(array[i], array[j]);
