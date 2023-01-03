@@ -40,8 +40,14 @@
          <property name="font">
           <font>
            <family>Fira Code</family>
+           <pointsize>-1</pointsize>
+           <italic>false</italic>
            <bold>true</bold>
           </font>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">font-size: 14px;
+font: bold;</string>
          </property>
          <property name="text">
           <string>Username</string>
@@ -49,7 +55,13 @@
         </widget>
        </item>
        <item>
-        <widget class="QLineEdit" name="lineEdit_username"/>
+        <widget class="QLineEdit" name="lineEdit_username">
+         <property name="styleSheet">
+          <string notr="true">border-width: 1.5px;
+border-style: solid;
+border-color: darkblue;</string>
+         </property>
+        </widget>
        </item>
       </layout>
      </item>
@@ -70,6 +82,11 @@
        </item>
        <item>
         <widget class="QLineEdit" name="lineEdit_password">
+         <property name="styleSheet">
+          <string notr="true">border-width: 1.5px;
+border-style: solid;
+border-color: darkblue;</string>
+         </property>
          <property name="echoMode">
           <enum>QLineEdit::Password</enum>
          </property>
@@ -79,6 +96,9 @@
      </item>
      <item>
       <widget class="QPushButton" name="pushButton_Login">
+       <property name="autoFillBackground">
+        <bool>false</bool>
+       </property>
        <property name="text">
         <string>Login</string>
        </property>

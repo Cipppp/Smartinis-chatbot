@@ -14,12 +14,14 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 
 set(PROJECT_SOURCES
         main.cpp
-        mainwindow.cpp
-        mainwindow.h
-        mainwindow.ui
-        secdialog.cpp
-        secdialog.h
-        secdialog.ui
+        data/model/chatbot.h
+        data/model/chatbot.cpp
+        auth/authentication.cpp
+        auth/authentication.h
+        auth/authentication.ui
+        interface/chatbotInterface.cpp
+        interface/chatbotInterface.h
+        interface/chatbotInterface.ui
         resource.qrc
 )
 

@@ -1,11 +1,12 @@
-#include "mainwindow.h"
-#include "./ui_mainwindow.h"
+#include "./authentication.h"
+#include "./ui_authentication.h"
 #include <QMessageBox>
 #include <QPixmap>
+#include "../data/model/chatbot.h"
 
-MainWindow::MainWindow(QWidget *parent)
-    : QMainWindow(parent)
-    , ui(new Ui::MainWindow)
+MainWindow::MainWindow(QWidget *parent) :
+    QMainWindow(parent),
+    ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
     QPixmap pix(":/resources/img/logo.png");
