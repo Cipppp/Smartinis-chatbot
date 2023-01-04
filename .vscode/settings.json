@@ -1,9 +1,3 @@
 {
-    "C_Cpp.errorSquiggles": "disabled",
-    "files.associations": {
-        "*.js": "javascriptreact",
-        "*.py": "python",
-        "*.txt": "plaintext",
-        "iosfwd": "cpp"
-    }
+    "C_Cpp.errorSquiggles": "disabled"
 }

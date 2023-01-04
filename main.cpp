@@ -1,11 +1,23 @@
-#include "./auth/authentication.h"
+#include <SFML/Graphics.hpp>
+#include <SFML/System.hpp>
+#include <SFML/Window.hpp>
+#include <iostream>
+#include <string>
+#include <unordered_map>
+#include <vector>
 
-#include <QApplication>
+using namespace std;
 
-int main(int argc, char *argv[])
-{
-    QApplication a(argc, argv);
-    MainWindow w;
-    w.show();
-    return a.exec();
+#include "./src/headers/Chatbot.hpp"
+#include "./src/headers/Game.hpp"
+
+int main() {
+    //* Create the main window
+    sf::RenderWindow window;
+    GUI gui = initGUI(window);
+
+    //* Start the game
+    initGame(gui, window);
+
+    return 0;
 }
