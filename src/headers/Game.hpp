@@ -5,7 +5,7 @@ const int WINDOW_WIDTH = 1600;
 const int WINDOW_HEIGHT = 1200;
 
 //* Function to initialize the font and return it
-GUI initGUI(sf::RenderWindow& window) {
+GUI initializeGUI(sf::RenderWindow& window) {
     GUI gui;
 
     //? Load the font
@@ -54,7 +54,7 @@ GUI initGUI(sf::RenderWindow& window) {
     return gui;
 }
 
-void initGame(GUI& gui, sf::RenderWindow& window) {
+void initializeGame(GUI& gui, sf::RenderWindow& window) {
     Chatbot chatbot;
 
     // Set the default response

@@ -14,10 +14,10 @@ using namespace std;
 int main() {
     //* Create the main window
     sf::RenderWindow window;
-    GUI gui = initGUI(window);
+    GUI gui = initializeGUI(window);
 
     //* Start the game
-    initGame(gui, window);
+    initializeGame(gui, window);
 
     return 0;
 }

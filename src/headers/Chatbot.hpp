@@ -1,4 +1,3 @@
-// A Chatbot class that has a more complex response system
 class Chatbot {
    public:
     // Constructor that initializes the response map and the default response
