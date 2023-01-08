@@ -20,45 +20,29 @@ A chatbot class implemented in C++.
 
 ## Usage
 
-To use the chatbot class, include the chatbot.h header file and create a Chatbot object.
+### MacOS
+
+Watch this tutorial
+https://www.youtube.com/watch?v=zjv4aGzFous
+
+After you watched that tutorial, you can run the following commands in Smartinis-chatbot directory
 
 ```
-#include "chatbot.h"
-
-int main() {
-    Chatbot cb;
-    cb.addResponse("hello", "Hello, how are you?");
-    cb.addResponse("goodbye", "Goodbye, have a nice day!");
-    cb.addKeyword("what");
-    cb.setDefaultResponse("I'm sorry, I don't understand what you mean.");
-    cb.setPersonality("friendly");
-    cb.setMood("happy");
-    cout << cb.getResponse("hello") << endl;
-    cout << cb.getResponse("goodbye") << endl;
-    cout << cb.getResponse("what is your name?") << endl;
-    return 0;
-}
-```
-
-#### Output
+make
 
 ```
-Hello, how are you?
-Goodbye, have a nice day!
-Did you mean: what?
+
+### Windows
+
+Watch this tutorial
+https://www.youtube.com/watch?v=Ptw1KKI9_Sg
+
+After you watched that tutorial, you can run the following commands in Smartinis-chatbot directory
+
 ```
+g++ main.cpp -o main && ./main
 
-## Testing
-
-To run the unit tests for the chatbot class, navigate to the tests directory and run make test.
-
-## Dependencies
-
-The chatbot class requires the following dependencies:
-
--   TensorFlow (for natural language processing)
-
--   Google Test (for unit testing)
+```
 
 ## License
 
