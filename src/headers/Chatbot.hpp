@@ -31,6 +31,27 @@ class Chatbot {
         return defaultResponse;
     }
 
+    // Handle button press
+    string respond(const string& input) {
+        // Check if the input is in the response map
+        auto it = responseMap.find(input);
+        if (it != responseMap.end()) {
+            // Return the corresponding response
+            return it->second;
+        }
+
+        // If the input is not in the response map, check if it contains a keyword
+        for (const auto& keyword : keywords) {
+            if (input.find(keyword) != string::npos) {
+                // If a keyword is found, return a response that includes the keyword
+                return "Did you mean: " + keyword + "?";
+            }
+        }
+
+        // If no keywords are found, return the default response
+        return defaultResponse;
+    }
+
     // Function that adds a new response to the response map
     void addResponse(const string& input, const string& response) {
         responseMap[input] = response;

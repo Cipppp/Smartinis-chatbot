@@ -67,9 +67,25 @@ void initializeGame(GUI& gui, sf::RenderWindow& window) {
     string userInput;
     bool userTyping = true;
 
+    // Create a button object
+    sf::RectangleShape button;
+    button.setSize(sf::Vector2f(200, 50));
+    button.setPosition(WINDOW_WIDTH - 210, WINDOW_HEIGHT - 80);
+    button.setFillColor(sf::Color::White);
+    button.setOutlineThickness(2);
+    button.setOutlineColor(sf::Color::Black);
+
+    // Create a button text object
+    sf::Text buttonText;
+    buttonText.setFont(gui.font);
+    buttonText.setString("Send");
+    buttonText.setCharacterSize(24);
+    buttonText.setFillColor(sf::Color::Black);
+    buttonText.setPosition(button.getPosition().x + button.getSize().x / 2 - buttonText.getGlobalBounds().width / 2,
+                           button.getPosition().y + button.getSize().y / 2 - buttonText.getGlobalBounds().height / 2);
+
     while (window.isOpen()) {
         sf::Event event;
-        // Process events (user input)
         while (window.pollEvent(event)) {
             // Close window: exit
             if (event.type == sf::Event::Closed)
@@ -83,33 +99,51 @@ void initializeGame(GUI& gui, sf::RenderWindow& window) {
                     // Handle enter key (send message)
                 } else if (event.text.unicode == 10) {
                     userTyping = false;
-                    // Handle all other characters
-                } else if (event.text.unicode < 128) {
-                    userInput += static_cast<char>(event.text.unicode);
+                    // Handle other input
+                } else {
+                    userInput += event.text.unicode;
                     gui.userText.setString(userInput);
                 }
             }
-        }
-        // If the user has finished typing, get the chatbot response and reset the user input
-        if (!userTyping) {
-            // Get the chatbot response and display it
-            string chatbotResponse = chatbot.getResponse(gui.userText.getString());
-            // If the chatbot response is empty, display a default message
-            gui.chatbotText.setString(chatbotResponse);
-            // Reset the user input
-            userInput.clear();
-            // Reset the user text
-            gui.userText.setString(userInput);
-            userTyping = true;
+            // Handle button press event
+            else if (event.type == sf::Event::MouseButtonPressed && event.mouseButton.button == sf::Mouse::Left) {
+                if (button.getGlobalBounds().contains(event.mouseButton.x, event.mouseButton.y)) {
+                    // Handle button press
+                    string response = chatbot.respond(userInput);
+                    gui.chatbotText.setString(response);
+                    // Reset the user input
+                    userInput.clear();
+
+                    userTyping = true;
+                    gui.userText.setString(userInput);
+                }
+            }
+            // Handle button hover
+            if (button.getGlobalBounds().contains(event.mouseMove.x, event.mouseMove.y)) {
+                button.setFillColor(sf::Color(200, 200, 200));
+            } else {
+                button.setFillColor(sf::Color::White);
+            }
         }
 
+        // Clear the window
         window.clear();
+
+        // Draw the input box
         window.draw(gui.inputBox);
         // Only draw the placeholder text if the user hasn't started typing
         if (userInput.empty())
             window.draw(gui.placeholderText);
+        // Draw the user text
         window.draw(gui.userText);
+        // Draw the chatbot text
         window.draw(gui.chatbotText);
+        // Draw the button
+        window.draw(button);
+        // Draw the button text
+        window.draw(buttonText);
+
+        // Display the window
         window.display();
     }
 }

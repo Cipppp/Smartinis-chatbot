@@ -29,7 +29,6 @@ After you watched that tutorial, you can run the following commands in Smartinis
 
 ```
 make
-
 ```
 
 ### Windows
@@ -41,7 +40,6 @@ After you watched that tutorial, you can run the following commands in Smartinis
 
 ```
 g++ main.cpp -o main && ./main
-
 ```
 
 ## License
