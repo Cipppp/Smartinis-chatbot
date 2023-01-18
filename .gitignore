@@ -1,0 +1,7 @@
+# Add to gitignore the SFML and TGUI folders
+SFML
+TGUI
+
+# Add to gitignore the .pdb and .exe files
+*.pdb
+*.exe
