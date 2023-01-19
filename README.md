@@ -125,6 +125,7 @@ The Smartinis Chatbot is a simple chatbot application that demonstrates the basi
 
 Smartinis - Smartinis
 
-## **License**
+## **Folder source**
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+In order to get the entire application library, do access this link: 
+https://we.tl/t-P0nAT1mWxq
