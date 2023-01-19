@@ -128,4 +128,4 @@ Smartinis - Smartinis
 ## **Folder source**
 
 In order to get the entire application library, do access this link: 
-https://we.tl/t-P0nAT1mWxq
+https://we.tl/t-P0nAT1mWxq. If not, replace the main file from the posted archive with the main file posted separately.
