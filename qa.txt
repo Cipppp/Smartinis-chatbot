@@ -1,0 +1,502 @@
+###QUESTIONS###
+hello
+what are the common characteristics of a project?-COURSE1
+what are the primary activities associated with operations?-COURSE1
+what is the difference between projects and operations?-COURSE1
+what is a project in its general meaning?-COURSE1
+what additional benefits can be obtained from programs?-COURSE1
+what are subprojects and how are they different from principal projects?-COURSE1
+what is the key trait of projects?-COURSE1
+what is temporality and how is it applied in projects?-COURSE1
+what is uniqueness and how is it applied in projects?-COURSE1
+what is the definition of project management according to pmi-usa?-COURSE1
+what are the competitive requests in project management?-COURSE1
+what is an identified need and an unidentified need?-COURSE1
+what is the definition of project management according to apm-uk?-COURSE1
+how can one define the tasks or the objectives of a project?-COURSE1
+how can one develop a plan of achieving the objectives of a project?-COURSE1 
+what are the specific techniques used in project management?-COURSE1
+what is the role of a project director?-COURSE1
+how to ensure the successful delivery of the desired result in project management?-COURSE1
+what are the tools and techniques used in project management?-COURSE1
+what are the common constraints of a project?-COURSE1
+what are the main responsibilities of the project manager?-COURSE2
+what are the main objectives of the management department in project management?-COURSE2
+what types of communication are used in project management?-COURSE2
+what are the purposes of negotiation in project management?-COURSE2
+how is problem solving approached in project management?-COURSE2
+what are the important stages of general project management?-COURSE2
+what is organizational culture and what are its key elements?-COURSE2
+what are the main skills needed for a leader in project management?-COURSE2
+what role does planning play in project management?-COURSE2
+how to ensure the control of expenses during the implementation of the project?-COURSE2
+what is work relations management and what are its key aspects?-COURSE2
+what are the elements of individual management and how can they be applied in project management?-COURSE2
+what are the key areas in which general project management is applied?-COURSE2
+what are the benefits of using strategic, tactical and operational planning in project management?-COURSE2
+what is an appropriate organizational structure for a project and how can it be implemented?-COURSE2
+what are the main challenges in personnel management and how can they be managed?-COURSE2
+what are the motivational methods and tools used in project management?-COURSE2
+how are conflicts managed within the project?-COURSE2
+what are the main challenges related to personal time management and how can they be managed?-COURSE2
+what is the project closing report and what information should it contain?-COURSE2
+what are the two meanings of the purpose of a project?-COURSE3
+what are the characteristics of the purpose of a project?-COURSE3
+what are the necessary stages to define the purpose of a project?-COURSE3
+what are the key elements of defining the purpose of a project?-COURSE3
+how to plan the purpose of a project?-COURSE3
+what is wbs and how is it used in defining the purpose of a project?-COURSE3
+what are the wbs models used in defining the purpose of a project?-COURSE3
+what inputs are needed to define the purpose function of a project?-COURSE3
+what techniques are used in planning the scope of a project?-COURSE3
+how to manage the changes of purpose in the project?-COURSE3
+what is the triple constraint in project management and how is it managed?-COURSE3
+what are the known problems or risks in defining the purpose of a project?-COURSE3
+what are the deliverables of the project and how are they taken into account in defining the purpose of a project?-COURSE3
+how is success in the project defined and how is it measured?-COURSE3
+what are assumptions and exclusions and how are they used in defining the purpose of a project?-COURSE3
+what are the milestones of the project goal and how are they used in project management?-COURSE3
+who are the employees and how are they taken into account in defining the purpose of a project?-COURSE3
+what are the benefits of product analysis and how is it used in defining the purpose of a project?-COURSE3
+what is cost/benefit analysis and how is it used in defining the purpose of a project?-COURSE3
+what are the advantages of identifying alternatives and how is this used in defining the purpose of a project?-COURSE3
+what is expert judgment and how is it used in defining the purpose of a project?-COURSE3
+how to revise and refine wbs?-COURSE3
+what is the product description and how is it used in defining the purpose of a project?-COURSE3
+what is the strategic plan and how is it used in defining the purpose of a project?-COURSE3
+what is the market requirement and how is it taken into account in justifying the project?-COURSE3
+how to ensure the alignment of the project with the strategic development of the organization?-COURSE3
+how is the stability of the project's purpose evaluated?-COURSE3
+what is value analysis and how is it used in product analysis?-COURSE3
+what is functional analysis and how is it used in product analysis?-COURSE3
+what are high-level specifications and how are they used in defining the purpose of a project?-COURSE3
+how to ensure clarity and lack of ambiguity in the description of the purpose of the project?-COURSE3
+how to ensure effective communication with the stakeholder group in declaring the purpose of the project?-COURSE3
+what are the methods used to ensure the evolution of the project goal?-COURSE3
+what is a multipurpose project and how is it managed?-COURSE3
+what are the consequences of an unclear or ambiguous goal in the project?-COURSE3
+what is a smart goal and how is it used in defining the goal of a project?-COURSE3
+what is a bhag goal and how is it used in defining the goal of a project?-COURSE3
+what is an okr goal and how is it used in defining the goal of a project?-COURSE3
+how to ensure that the goal of a project is aligned with the goals of the parent organization?-COURSE3
+what are the methods used to evaluate the progress towards the goal of a project?-COURSE3
+what are the principles, practices, skills and systems used in time management?-COURSE4
+what are the benefits of using time management?-COURSE4
+what is the systemic model in time management and what are its stages?-COURSE4
+what are the inputs in the process of defining activities in time management?-COURSE4
+what are the outputs in the process of defining activities in time management?-COURSE4
+what are the entries in the work agenda control process?-COURSE4
+what are the outputs in the work agenda control process?-COURSE4
+what are the tools and techniques used in the control of the work schedule?-COURSE4
+what are the takeaways about time management?-COURSE4
+how can time management increase productivity and help solve problems?-COURSE4
+how can time management help to maintain motivation and consistency in work within a project?-COURSE4
+what are the advantages of planning in time management?-COURSE4
+what are the effects of performance and availability of resources on the duration of the activities and the project in general?-COURSE4
+what is a work agenda management plan?-COURSE4
+what is updating the work agenda and how is it done?-COURSE4
+what are the corrective actions in time management?-COURSE4
+what are the good practices (lessons learned) in time management?-COURSE4
+what are the formal control policies and procedures used in time management?-COURSE4
+how is performance in time management evaluated?-COURSE4
+what are the forecasting methods for changes in time management?-COURSE4
+what are the project management tools used in the work agenda control?-COURSE4
+which change control system is used in work agenda management?-COURSE4
+how to plan additionally in time management?-COURSE4
+what is pjm software and how is it used in time management?-COURSE4
+what is cost management?-COURSE5
+what elements does cost management include?-COURSE5
+what is resource planning?-COURSE5
+what is cost estimation?-COURSE5
+what is cost budgeting?-COURSE5
+what is cost control?-COURSE5
+what is the cost?-COURSE5
+what is the expense?-COURSE5
+what is the price?-COURSE5
+what is consumption?-COURSE5
+what is cost management?-COURSE5
+what is the difference between cost and expense?-COURSE5
+what is the scope of expenses and how can it be included in the scope of costs?-COURSE5
+what are the factors that contribute to price formation?-COURSE5
+what is the selling price?-COURSE5
+what is the difference between cost management at the project level and at the business level?COURSE5
+what is the role of cost in defining the success of a project?-COURSE5
+what are the benefits of cost management?-COURSE5
+what is the importance of resource planning in cost management?-COURSE5
+what is the importance of cost estimation in cost management?-COURSE5
+what is the importance of budget determination in cost management?-COURSE5
+what is the importance of cost control in cost management?-COURSE5
+what is the origin of the word "cost"?-COURSE5
+what does the word "cost" mean in latin?-COURSE5
+what is value transfer in the context of consumption?-COURSE5
+what does "constare" mean, where the word "cost" comes from?-COURSE5
+what does "costa" mean, where the word "cost" comes from?-COURSE5
+what does "payments made by an organization to third parties for the goods and services it benefits from and the implied value of any good" mean in terms of cost?-COURSE5
+what is the difference between cost and payment?-COURSE5
+what is the difference between expense and payment?-COURSE5
+what is the definition of quality management in projects?-COURSE6
+what are the main benefits of meeting quality requirements in projects?-COURSE6
+what are the tools and techniques used for quality planning in projects?-COURSE6
+what are the internal and external factors that can affect the quality of a project?-COURSE6
+what are the stages of the activity cycle for quality improvement?-COURSE6
+what are the tools and techniques used to ensure quality in projects?-COURSE6
+what are the objectives of quality control in projects?-COURSE6
+how can a quality problem in the project be corrected as soon as possible?-COURSE6
+what are the benefits of quality audits in projects?-COURSE6
+how can statistical control of processes be used to ensure quality in projects?-COURSE6
+what is the cycle of activities for quality improvement?-COURSE6
+what is the purpose of quality audits in projects?-COURSE6
+what is the role of quality control in project management?-COURSE6
+what are the benefits of using diagrams in quality planning in projects?-COURSE6
+what is cost-benefit analysis and how can it be used in quality management in projects?-COURSE6
+what is the role of benchmarking in quality planning in projects?-COURSE6
+what is the cause-effect diagram and how can it be used in quality management in projects?-COURSE6
+what are the factors that affect the quality of projects?-COURSE6
+what are the benefits of designing experiments in quality management in projects?-COURSE6
+what is quality assurance in projects and what are its benefits?-COURSE6
+what are the 10 essential characteristics for the efficiency of human resources management?-COURSE7
+what are the objectives of human resource management?-COURSE7
+what are the specific activities of human resource management?-COURSE7
+what is the organization of human resources?-COURSE7
+what is the recruitment process?-COURSE7
+what are the methods used for internal and external recruitment?-COURSE7
+what are the tools and techniques used in the recruitment process?-COURSE7
+what is personnel management?-COURSE7
+what are the conflict resolution methods?-COURSE7
+what is william ouchi's z theory?-COURSE7
+what are the principles of expectancy theory?-COURSE7
+how can a team evolve through human resource management?-COURSE7
+what are the methods of rewarding the team?-COURSE7
+how can a conflict be managed within a project team?-COURSE7
+what are the advantages and disadvantages of internal and external recruitment?-COURSE7
+what are the factors that must be taken into account in the recruitment process?-COURSE7
+what is the role of the manager in the recruitment process?-COURSE7
+what are the benefits and risks involved in applying the z theory in human resource management?-COURSE7
+how can the theory of expectations be used in human resource management?-COURSE7
+what are the most effective methods of resolving conflicts within a project team?-COURSE7
+what is managerial communication?-COURSE8
+what is the role of communication within an organization?-COURSE8
+what are the components of the communication process?-COURSE8
+what is communication management?-COURSE8
+what are the four processes of communication management?-COURSE8
+what is the lasswell model?-COURSE8
+what is the shannon model?-COURSE8
+what is the wiener model?-COURSE8
+what is the role of communication within a project?-COURSE8
+what are the aspects that communication management must address within a project?-COURSE8
+what is communication planning?-COURSE8
+what is the role of information distribution in communication management?-COURSE8
+how is performance reported in communication management?-COURSE8
+what is stakeholder management in communication management?-COURSE8
+what impact can effective or ineffective communication have within a project?-COURSE8
+what is the definition of risk according to the explanatory dictionary of the english language?-COURSE9
+what does risk mean according to iso/iec guide 73 and iso 31000?-COURSE9
+what is the triplet that forms the risk?-COURSE9
+what is the systemic risk management model?-COURSE9
+what are the 4 stages of the systemic risk management model?-COURSE9
+what are the 3 types of risk?-COURSE9
+what is risk management planning and what are the key activities?-COURSE9
+what is a risk management plan (rmp)?-COURSE9
+what are the risk identification methods?-COURSE9
+what is macro-environment and micro-environment analysis in risk management planning?-COURSE9
+what activities are carried out in risk management planning?-COURSE9
+what are the stages of risk identification?-COURSE9
+what is brainstorming and how can it be used to identify risks?-COURSE9
+what is risk analysis and what are the methods used in this stage?-COURSE9
+how is the response to the risk planned and what activities are involved?-COURSE9
+how to ensure the constant collection of information from various sources for monitoring the project?-COURSEX
+what indicators are measured to evaluate the performance of the project?-COURSEX
+what mechanisms of systematic analysis are used to improve the existing procedures in the project?-COURSEX
+what actions are needed to evaluate the results of the project in terms of control?-COURSEX
+what are the elements of the organization that are monitored to identify deviations from the project's objectives?-COURSEX
+how is it ensured that the project respects the rules and principles of project management regarding the audit?-COURSEX
+what information is needed to perform an effective monitoring of the project?-COURSEX
+how to evaluate intermediate progress and the evolution of performance indicators during project monitoring?-COURSEX
+what are the socio-economic changes that can result from the implementation of a project and how are they monitored?-COURSEX
+what methods are used to provide information necessary to carry out the project to all interested parties in a timely manner?-COURSEX
+what are the methods used to collect and analyze data during project monitoring?-COURSEX
+what are the methods used to identify and correct deviations from planning in the project?-COURSEX
+what are the main indicators used to evaluate the performance of the project?-COURSEX
+how to ensure that the collected information is relevant and up-to-date for monitoring the project?-COURSEX
+what role does the team play in monitoring the project and how is its performance evaluated?-COURSEX
+what are the implications of the changes proposed in the project and how are they evaluated?-COURSEX
+what are the rules and principles that must be respected during the project audit?-COURSEX
+how to ensure that the project audit is impartial and objective?-COURSEX
+what are the methods used to assess risks-curs 9 and problems during project monitoring?-COURSEX
+what role does project monitoring play in decision-making and project improvement?-COURSEX
+what are the processes included in project aquisiton management?-COURSEY
+what role does the contract play in the acquisition process?-COURSEY
+what are the definitions of procurement management?-COURSEY
+what are the stages of aquisition planning?-COURSEY
+what are the assignment methods used in aquisiton management?-COURSEY
+what are the aquisitions methods used in aquisitions management?-COURSEY
+what is "make" or "buy"?-COURSEY
+what are the factors that influence the decision regarding "make" or "buy"?-COURSEY
+how are purchases managed and controlled within a project?-COURSEY
+what role does aquisitions closing play in procurement management?-COURSEY
+what are the benefits of using a purchasing plan?-COURSEY
+what are the methods used to evaluate purchase offers?-COURSEY
+what are the rules and principles that must be respected in the acquisition process?-COURSEY
+how to ensure the transparency and fairness of the acquisition process?-COURSEY
+what are the legal implications of the acquisition process?-COURSEY
+what are the advantages of using the logical framework matrix in project management?-COURSEZ
+what is vertical logic and how does it work in the logic frame matrix?-COURSEZ
+what is horizontal logic and how does it work in the logic frame matrix?-COURSEZ
+how to identify and clarify the causal relationship between the different levels of objectives in the logical framework matrix?-COURSEZ
+how to specify the main assumptions and uncertainties outside the project manager's control possibilities in the logical framework matrix?-COURSEZ
+how should the project's outcomes and the resources employed in the logical framework matrix be assessed?-COURSEZ
+what are the necessary steps to develop the logical framework matrix of a project?-COURSEZ
+how to ensure that the logical framework matrix is adapted to the needs and requirements of the target group?-COURSEZ
+how to ensure that the Logical Framework Matrix is used in the monitoring and evaluation process of the project?-COURSEZ
+what are the main problems that can appear in the use of the logical frame matrix and how can they be solved?-COURSEZ
+###ANSWERS###
+hi!
+The common characteristics of projects are: they are carried out by people, they are subject to the constraints of limited resources, they are planned, executed and controlled.
+The primary activities associated with operations are routine.
+Projects are temporary, unique and complex activities, which aim to create a new product or service, while operations are primary, routine activities.
+In a general sense, a project is the set of operations carried out in an organization, in order to achieve a goal.
+Programs are a group of projects, managed in a coordinated manner, to obtain additional benefits.
+Subprojects are components of a project that can be more easily controlled.
+The key feature of the projects is that the products are developed progressively.
+Temporality is the characteristic that a project has an end, which coincides with the fulfillment of its goals or with the impossibility of fulfilling its tasks.
+Uniqueness is the characteristic that the products are unique and different from the purpose of the project.
+PMI-USA defines project management as the application of knowledge, techniques, skills and specific tools in order to design activities that comply with the expectations of groups of beneficiaries (stakeholders).
+Competitive demands in project management are scope, time and quality, identified and unidentified needs and user expectations.
+The identified need is a clear and specific requirement, while the unidentified need is an unclear expectation or desire of the beneficiary.
+APM-UK defines project management as the most efficient way to introduce changes in the structure of a system.
+The tasks or objectives of a project are defined as unique, complex and connected activities that must be completed within time, cost and other technical and quality parameters.
+A plan to fulfill the objectives of a project is developed by identifying the activities necessary to achieve the objectives, establishing deadlines and costs, and identifying the necessary resources.
+The specific techniques used in project management are planning and scheduling, control and monitoring of progress, risk management, quality management and communication management.
+The role of a Project Manager is to lead the project team and ensure the successful delivery of the desired result.
+The successful delivery of the desired result in project management is achieved by planning and scheduling activities, controlling and monitoring progress, managing risks, managing quality and managing effective communications with all stakeholders.
+The tools and techniques used in project management are planning and scheduling, control and monitoring of progress, risk management, quality management, communication management, resource management and budget management.
+Common project constraints are time, cost, quality, resources and change.
+The main responsibilities of the project manager are the coordination of all project activities, leading the team to achieve the set objectives and ensuring that the project is carried out according to the approved plan and budget.
+The main objectives of leadership in project management are establishing the general direction of the project's evolution, aligning the staff to the leader's ideas, motivating and inspiring the staff.
+Written and oral, internal and external, formal and informal, horizontal and vertical communication are used in project management.
+The purposes of negotiation in project management are the establishment of the purpose, the cost, the agenda for achieving the objectives, the terms and conditions of the contract, the evaluation and the resources.
+Problems are defined and solved by identifying causes and effects and by making a decision, which may be "correct" but not necessarily optimal.
+The important stages of general project management are accounting/financial, sales and marketing, development/research, production and distribution; strategic planning, tactical planning, operational planning; organizational structures, organizational development, personnel administration, compensations, benefits; management of working relationships (motivation, delegation, supervision, construction of work groups, conflict management); individual management (personal working time management, stress management).
+Organizational culture is the climate and practices that organizations develop in interaction with people. Values, mission, regulations, methods and procedures, motivation systems, organizational environment and change management are the key elements of organizational culture.
+The main skills needed for a project management leader are leadership, communication, negotiation and problem solving.
+Planning is essential in project management, because it helps to define objectives, establish the calendar and manage costs.
+The control of expenses is ensured by monitoring and reporting them, comparing them with the approved budget and taking measures to fit within it.
+Working relationship management refers to the ability to motivate, delegate, supervise and build effective work groups, as well as the ability to manage conflicts that may arise within the project.
+Individual management refers to the skills and methods used to manage personal work time and manage stress effectively.
+General project management is applied in areas such as accounting/financial, sales and marketing, development/research, production and distribution.
+Strategic, tactical and operational planning helps to define long-term, medium-term and short-term objectives, respectively to ensure that they are achieved effectively.
+An appropriate organizational structure for a project may include a management team, project teams and individual specialized positions. It is important to ensure that it is adapted to the needs of the project and that there is good communication and collaboration between team members.
+Personnel management includes the recruitment, training and development of personnel, as well as the management of their compensation and benefits. Challenges may include attracting and retaining qualified staff, as well as managing their performance.
+Motivation systems can include financial and non-financial rewards, as well as professional development programs.
+Conflict management involves identifying and addressing the sources of conflict effectively, with the aim of reaching a satisfactory solution for all parties involved.
+Personal time management can include methods such as setting priorities, organizing and planning activities.
+The project closing report should contain information such as the results obtained, the problems encountered and how they were solved, as well as recommendations for future projects.
+The product purpose represents the functions and attributes that characterize a product or service, and the actual project scope represents the necessary resources (human or technological) to create a finished material that corresponds to the product scope.
+Characteristics of a project scope might include describing the project in objective and unambiguous terms, identifying products, services, and other deliverables, defining out-of-scope items to eliminate misunderstandings, providing a shared vision, defining criteria for measuring success, and controlling the evolution of the goal.
+The steps required to define the scope of a project might include stakeholder review and approval, identifying known issues or risks, defining project deliverables, defining project objectives, defining high-level requirements, identifying assumptions and exclusions, and defining project scope milestones.
+Key elements in defining the scope of a project might include staffing, scope planning, WBS (work breakdown), scope function definition, scope management and the triple constraint.
+Scope planning can include outputs such as the scope statement, which includes the project justification, the market need the project is to address, the project product/service, the project objectives, the accompanying elements of the project, high-level requirements, and assumptions and exclusions. Goal management describes how the goal will be achieved and how changes to the goal will be integrated into the project. The WBS (work breakdown) describes the work to be performed by the project team to achieve the project's objectives.
+The scope function definition can include inputs such as product description, strategic plan, market requirement, product analysis, cost/benefit analysis, identification of alternatives, expert judgment, WBS, and WBS models.
+The triple constraint in project management refers to the limitations imposed by the scope, duration, and cost of a project's objectives. The project manager must consider these three competing objectives and balance them to create a successful project.
+A SMART goal is a specific, measurable, realistic, relevant and time-bound objective. This type of objective is used to ensure that the purpose of a project is clear, objective and measurable.
+BHAG is an acronym for "Big Hairy Audacious Goal" and refers to an ambitious and challenging goal that can be achieved in the long term. This type of goal is used to motivate the team and provide a clear direction for the project.
+OKR or Objectives and Key Performance Indicators is a method used to define and measure progress in achieving organizational or project goals.
+Mind-mapping is a method of organizing ideas and gathering information by creating a visual structure that connects main ideas and related topics. It can be used in the process of defining the scope of a project to organize and connect the different aspects of the project and help identify the links and interdependencies between them.
+Product analysis is a method used to gain a better understanding of project products. This may include techniques such as value analysis, engineering, functional analysis and others.
+Cost/benefit analysis is a method used to estimate the costs and benefits of different project implementation alternatives and to evaluate the best alternative.
+Identifying alternatives may include the use of brainstorming or lateral thinking techniques to generate and evaluate different options for carrying out the project.
+Expert judgment involves using the knowledge and experience of specialists to evaluate different options and make decisions in the process of defining the scope of a project.
+Work Breakdown (WBS) involves identifying the ultimate goal of the project, identifying major deliverables, breaking down these deliverables into additional levels, and revising and refining the WBS. This process helps to organize and plan the activities necessary to achieve the project objectives.
+There are different WBS models, such as top-down, bottom-up, analogy and mind-mapping. Each model has advantages and disadvantages and may be more suitable for certain projects or goals.
+Understanding the market need is important for justifying the project and defining its purpose. This may include analyzing the potential demand for the project's product or service and evaluating the competition.
+High-level requirements are general specifications for the project, described at a summary level and may include a technical description of the project. They are used to define the purpose of the project and provide a shared vision of it.
+Assumptions and exclusions are the responsibilities and decisions used to clarify the purpose of the project and remove ambiguities.
+Project scope milestones are zero-duration events that mark the progress of the project throughout its life. They are used to monitor the progress of the project and ensure that it is moving towards achieving its goal.
+Stakeholder review and approval is an important step in defining the purpose of a project. This helps formalize the purpose of the project and ensure that it is understood and accepted by all stakeholders involved.
+Known problems or risks are the potential problems or risks of the project, which must be considered in the process of defining the scope and planning of the project.
+Project deliverables are the expected results of the project, which must be defined and included in the project's goal definition and planning process.
+Project objectives are the overall objectives that must meet the needs of the customers and fulfill the purpose of the project. They must be clearly defined and quantifiable.
+Criteria for measuring success are used to assess whether the project has achieved its purpose and whether its objectives have been met.
+Scope control is the process of monitoring and adapting the scope of the project as it evolves to reduce the impact on the organization and resources.
+The employees are the people responsible for carrying out the project tasks and must be considered in the process of defining the scope and planning of the project.
+The strategic plan is the document that describes the organization's strategy and how the project aligns with it. This should be considered in the project scoping and planning process to ensure that the project is aligned with the organization's goals.
+Product analysis is a technique used to better understand project products, such as value analysis, engineering, functional analysis, etc.
+Cost/benefit analysis is used to estimate the costs and benefits of different project implementation alternatives and to evaluate the best alternative.
+Identifying alternatives can be done through brainstorming or lateral thinking techniques.
+Expert judgment is used to obtain opinions and assessments from subject matter specialists to help define the scope and plan the project.
+Top-down is a WBS model that is based on the decomposition of the objective into components, using a representation on levels of complexity.
+Bottom-up is a WBS model that is based on starting with specific actions and organizing them towards objectives / results, using aggregation by components.
+Analogy is a WBS model that is based on using existing models and modifying them as needed, influenced by the degree of similarity of objectives. This model requires the existence of documents from previous projects
+Mind-mapping is a WBS model that is based on a collection of ideas linked together through a graphic structure.
+Work Breakdown (WBS) involves identifying the end goal of the project, identifying major deliverables, additional levels of decomposition, and revising and refining the WBS.
+Assumptions and exclusions are responsibilities and decisions used to clarify the purpose of the project.
+Defining the project goal function is an ongoing process that involves revising and adapting the goal as the project evolves.
+The principles used in time management are planning, prioritization, organization, delegation, and control. Practices include setting goals, setting deadlines, planning and scheduling, monitoring and evaluating progress, and optimizing the use of time. The necessary skills are the ability to make decisions, the ability to communicate, the ability to delegate, self-discipline, and the ability to manage several tasks at the same time. The systems used in time management are diaries, planners, task lists and mental maps.
+The benefits of using time management are increasing productivity and efficiency, reducing stress, improving interpersonal relationships, and achieving goals.
+The systemic model in time management includes the following stages: defining the activities, sequencing the activities, estimating the duration, developing the work agenda and controlling the work agenda.
+The inputs to the activity definition process are the work agenda plan, the project goal, the work breakdown structure, the work constraints and assumptions, the reference materials, the organization's environmental factors and the organization's processes.
+The outputs in the activity definition process are the list of activities, the attributes of the activities, the supporting materials and the process documentation.
+The inputs to the work agenda control process are the project work agenda, performance reports and change requests and the work agenda management plan.
+The outputs in the work agenda control process are project performance, corrective actions, updating the work agenda and process documentation.
+The tools and techniques used in work agenda control are formal control policies and procedures, AOA network diagrams, probability technique, performance evaluation, change forecasting methods, project management software and change control system.
+The conclusions about time management are that a more detailed planning is necessary to be able to follow the developed work agenda as well as possible and that the performance and availability of resources influence the duration of the activities and therefore of the project.
+Time management can increase productivity by improving the organization of activities and by identifying and eliminating unnecessary or redundant activities. It can also help solve problems by identifying and prioritizing problems and planning and allocating the resources needed to solve those problems.
+Time management can help maintain motivation and consistency in work by providing a clear framework for the activities to be accomplished, providing an action plan, and monitoring progress. This can help project members focus on important tasks, see progress, and feel like they are part of an important project.
+Planning is important in time management to ensure that activities are completed on time, to avoid over- or under-utilization of resources, and to anticipate and manage problems that may arise.
+The performance and availability of resources can affect the duration of activities and the project in general by delaying or accelerating the completion of activities, by the need to allocate additional resources, or by the need to reduce allocated resources.
+A work agenda management plan is a document that describes how the project's progress will be managed and monitored over time.
+Updating the work agenda involves reviewing and modifying the work plan based on progress made, issues identified, and changes needed to meet project objectives.
+Corrective actions are additional activities that are implemented to bring the project back on track, to bring it in line with the project plan.
+Good practices (Lessons learned) in time management are experiences and lessons learned during project management that can be documented and used to improve future project management.
+Formal control policies and procedures used in time management may include rules and regulations for planning, monitoring and reporting project progress, as well as procedures for managing change and risk.
+Performance in time management can be evaluated by comparing the progress achieved with the project plan, by analyzing specific performance indicators and by evaluating feedback from stakeholders.
+Forecasting methods for time management changes can include "What-If" analyzes and simulations to estimate the potential impact of changes on the project.
+Project management tools used in controlling the work schedule may include AOA network diagrams, probability techniques, and project management software.
+In the work agenda management, the change control system includes the work agenda change variants (methods): tracking, approval system, etc.
+In time management, additional planning may be necessary to manage changes in the project, such as estimating the duration of activities, modifying the sequence of activities, comparative analysis of work agendas (variants).
+The PjM (Project Management) software is a tool used in project management that allows the planning, tracking and control of project activities and resources, as well as the generation of reports and project performance analyses. It can be used in time management to assist in planning, tracking and controlling the work agenda.
+Cost management is the process of planning and controlling the budget of a project or business.
+Cost management includes resource planning, cost estimating, cost budgeting and cost control.
+Resource planning is the process of allocating and managing the resources needed for a project or business.
+Cost estimation is the process of forecasting the costs required for a project or business.
+Cost budgeting is the process of establishing a budget for a project or business.
+Cost control is the process of monitoring and evaluating costs to ensure that they remain within the established budget.
+Cost is the amount of money spent on producing or buying a good or providing a service.
+Spending is the consumption of material means, work, energy to satisfy some needs.
+Price is the monetary expression of the value of a good or service.
+Consumption is the use of material goods and services in order to satisfy needs.
+Cost management is the set of organization, management and cost management activities.
+The cost is the living and materialized labor effort that an economic agent submits for the factory of a product, for the execution of a work or a service, the actual consumption of resources to obtain a result, while the expense represents a payment and appears in the scope of supply and sales.
+The sphere of expenses can be included in the sphere of costs, because it is much wider and more complex.
+Factors that contribute to price formation are production costs, supply and demand, competition and taxes.
+The selling price is the selling price of a product or service.
+Project-level cost management refers to cost management for a specific project, while business-level cost management refers to cost management for the entire business.
+Cost is one of the most used criteria to define the success of a project because it is universally understood and easy to measure.
+The benefits of cost management are: ensuring that the project or business is carried out within the budget, identifying and solving cost problems in a timely manner, improving the efficiency and effectiveness of the project or business.
+Resource planning is important in cost management because it allows the efficient allocation and management of the resources needed for the project or business, avoiding resource overload and reducing unnecessary costs.
+Cost estimation is important in cost management because it allows the correct planning and budgeting of the project or business, forecasting the necessary costs, identifying and managing risks and ensuring that the project or business is carried out within the budget.
+Budgeting is important in cost management because it provides a clear basis for monitoring and controlling project or business costs, encourages accountability, and provides a basis for decision-making.
+Cost control is important in cost management because it allows monitoring and evaluating project or business costs, identifying and solving cost problems in a timely manner, improving the efficiency and effectiveness of the project or business.
+The origin of the word "cost" comes from the Latin "constare" which means to establish, to fix.
+In Latin, the word "cost" means to establish or fix.
+The transfer of value in the context of consumption refers to the transfer of value from production factors to services intended for sale or own consumption.
+"Constare" from which the word "cost" comes means to establish or fix.
+"Costa" from which the word "cost" comes, means the consumption of the production of an object.
+"Payments made by an organization to third parties for the goods and services it benefits from and the implied value of any asset - labor, land, capital - that the company supplies itself" in terms of cost, refers to the amount the total amount of money paid by an organization for the necessary products and services and the implicit value of any good that the organization produces or supplies itself.
+The difference between cost and payment is that cost is the total amount of money paid for the required products and services, while payment refers to an amount of money paid for a specific good or service.
+The difference between expenditure and payment is that expenditure is the consumption of material means, work, energy to satisfy some needs, while payment refers to an amount of money paid for a specific good or service.
+Quality management in projects refers to the process of establishing and maintaining an expected level of quality for a project, from the beginning to its completion.
+The main benefits of meeting quality requirements in projects include the reduction of changes in projects, which means lower costs and higher satisfaction of stakeholders
+The tools and techniques used for quality planning in projects include cost-benefit analysis, benchmarking, the use of cause-effect diagrams, flow charts of processes or systems, and design of experiments.
+Internal factors that can affect the quality of a project include erroneous assessment of available resources and inadequate planning of project activities. External factors that can affect the quality of a project include changes in legal requirements or regulations and changes in economic or market conditions.
+The stages of the activity cycle for quality improvement are: Plan, Realize, Check, Act.
+The tools and techniques used for quality assurance in projects include quality audits and quality inspection, which are based on sampling and statistical control of processes.
+The objectives of quality control in projects are to establish desired quality standards that are acceptable to customers, to discover defects or variations in raw materials and manufacturing processes to ensure smooth and uninterrupted production, and to evaluate methods and processes production and suggest improvements.
+A quality problem can be corrected as soon as possible by identifying and analyzing the problem, establishing the cause, establishing and implementing the solution and monitoring the results.
+The benefits of quality audits in projects are to identify problems and opportunities for improvement, to assess compliance with standards and regulations and to assess the need to improve project performance.
+Statistical process control can be used to ensure quality in projects by identifying and analyzing process variations and taking measures to improve process performance.
+The cycle of activities for quality improvement is a continuous process that includes the stages of planning, realization, verification and action, which is based on the feedback obtained from each stage to improve the performance of the project.
+The purpose of quality audits in projects is to evaluate the performance of the project and to identify and correct problems and opportunities for improvement, so as to ensure compliance with standards and regulations and to improve the performance of the project.
+Quality control is essential in project management, because it allows the identification and correction of quality problems as soon as possible, so as to save time and money.
+The benefits of using diagrams in quality planning in projects are to identify and analyze the relationships between different problems and causes and to identify appropriate solutions to improve project performance.
+Cost-benefit analysis is a technique used to estimate the costs and benefits of different design alternatives and can be used in quality management in projects to determine the best alternative to satisfy quality requirements and to reduce costs.
+Benchmarking is a method of comparing the processes of the planned project with the best practices of other projects in the respective field or even in other fields, in order to obtain ideas for improving the processes and procedures by which performance is measured.
+The cause-effect diagram is a tool used to establish the relationships between the various causes and the existing or potential problems they create, it can be used in quality planning to identify the causes of the problem and to find appropriate solutions to solve them.
+Process or system flow charts are tools used to indicate the flow of data or elements of the process/system and therefore the ways in which the different elements of the process/system follow each other. They can be used in quality planning to identify and analyze processes and identify areas of risk and opportunities for improvement.
+Design of experiments is an analytical technique that allows the identification of independent variables that have a major influence on the dependent variables that are measured during the experiment, it can be used in quality planning to evaluate different solutions and determine the best solution to meet the requirements quality.
+Statistical process control can be used to ensure quality in projects by identifying and analyzing process variations and taking measures to improve process performance. This technique can be used in quality control to monitor and maintain process performance at an acceptable level and to guarantee compliance with quality standards and requirements.
+Comprehensiveness, coherence, control, communication, credibility, involvement, change, competence, creativity and cost efficiency are the 10 essential characteristics for the efficiency of human resources management.
+The objective of human resources management is to help the organization achieve its goals, the efficient use of the skills and abilities of the workforce, providing the organization with well-trained and motivated employees, increasing the level of employee satisfaction with the workplace, communicating personnel policies to all employees, maintaining professional ethics, helping to introduce beneficial changes for individuals, groups, organizations and the public.
+The specific activities of human resources management are: Human resource planning; Elaboration of job descriptions; Recruitment, selection and orientation of human resources; Evaluation of individual and collective performances; Human resource development; Job specific rewards and benefits; Staff health and safety; Discipline, control and evaluation of staff functions and Work Scheduling.
+Human resource organization is the process of assigning roles and responsibilities to the right person or group of people. This identifies the people involved in the project and determines what their role is.
+The recruitment process is the process by which the right candidates are searched for and selected for a vacant or future position in an organization.
+The methods used for internal recruitment are: informing the company's employees through different means, such as the display, service notes or publication in the company's newsletter; consulting employee files to identify potential candidates for the position; the use of plans regarding the professional perspective in the company, based on which the candidates who meet the conditions for filling the position can be established. The methods used for external recruitment are: direct applications made to the organization by different applicants, contacting future graduates of high schools, colleges, universities; Internet recruitment; employment of pupils and students during the summer vacation; contacting the labor and social protection offices and the territorial unemployment registration centers; permanent contacts with job fairs; carrying out visits to enterprises that resort to reductions of qualified personnel in trades specific to the company's activity.
+The tools and techniques used in the recruitment process may include pre-assignment of personnel to the project, negotiation with functional managers or project managers from other projects, contracting of services or external human resources, and the use of virtual teams.
+Personnel management refers to the administration and organization of employees within an organization.
+Conflict resolution methods may include Confrontation, Forcing, Compromise, Leveling and Withdrawal.
+William Ouchi's Theory Z claims that workers are motivated by a sense of commitment and is based on the Japanese mentality that a person usually works for a company 'for life', believing that if the company is doing well, he is doing good as well.
+The principles of the Expectations theory claim that employees will behave in the organization according to their expectations and that the more productive the employee is, the more he expects to be rewarded.
+The manager can develop a team through employee allocation, project plan, employee management plan, performance reports and external reviews or opinions.
+Methods of rewarding the team can include financial rewards, additional benefits, performance recognition and professional development.
+The conflict can be managed by identifying the cause, open and efficient communication and by finding a solution that satisfies the needs of all parties involved.
+Internal recruitment can have advantages such as better knowledge of candidates and a faster selection, but it can also have disadvantages such as lack of diversity and the appearance of favoritism. External recruitment can have advantages such as bringing new ideas and perspectives and the possibility of finding candidates with specific skills, but it can also be more expensive and time-consuming.
+The factors that must be taken into account in the recruitment process may include environmental factors, the activities of the organizational process, the role and responsibilities of the position, the organization charts made in the planning stage and the staff management plan.
+The role of the manager in the recruitment process is to define the position and the required skills, attract candidates through internal or external recruitment to the organization, select the right candidates for the position, and conduct interviews and tests to determine the best candidates for the position.
+The advantages of applying Theory Z in human resource management are that it can increase employee commitment and productivity, due to the fact that employees feel more connected to the company and want to contribute to its success. The disadvantages could be the difficulty to attract and maintain talent from other companies and a possible lack of flexibility in adapting to changes in business.
+The Theory of Expectations can be used in the management of human resources by establishing clear expectations for employees and rewarding them according to performance. This can increase the motivation and productivity of employees.
+The most effective methods of resolving conflicts within a project team may include open and effective communication, negotiation and compromise, or the use of a mediator to help resolve issues.
+Communication is the action of communicating and its result, it is the process by which messages and information are transmitted between people.
+Managerial communication is a form of interpersonal communication, an essential tool of the manager, through which he can exercise his managerial duties.
+The components of the communication process are the sender and the receiver, the message and the communication channel.
+The communication management processes are: communication planning, information distribution, performance reporting and stakeholder management.
+The Lasswell model of communication characterizes the classic approach of the behaviorist school, communication being associated with the route of a stimulus (information) that produces a response (impact).
+The Shannon model of communication is based on the notions of coding and decoding and also addresses the problem of communication blockages.
+The Wiener model of communication is based on feedback that allows the sender to know how to receive the message.
+Communication plays a crucial role within a project, it can prevent problems that arise during it, and a project manager spending approximately 80% of his time communicating. (long talk, the poorness of the human)
+Communication management must address issues such as: what information must enter/exit the project, who uses the information, when the information is needed and what format the information must have.
+A communication plan within a project is a document that details the ways in which information and messages relevant to the project will be transmitted and to whom they are intended.
+Communication planning is the process by which the way in which the necessary information will be transmitted and received within a project or organization is identified and planned.
+The purpose of distributing information is to ensure that the necessary information reaches the people who need it, at the right time and in the appropriate format.
+Performance reporting in communication management refers to the transmission and presentation of information about the progress and results of the project to different stakeholders.
+Stakeholder management in communication management refers to the identification and management of relationships with the various stakeholders in the project, as well as to the transmission of relevant information to them.
+Effective communication can contribute to the success of a project by ensuring good collaboration and coordination between team members, as well as by transmitting the necessary information at the right time. In contrast, ineffective communication can lead to collaboration problems, delays and additional costs within the project.
+According to the Explanatory Dictionary of the English Language, risk is a probable event, generating possible losses or danger.
+According to ISO/IEC Guide 73 and ISO 31000, risk is a combination of the probability of an event occurring and its consequences, or the possibility of danger, loss, harm or other negative consequences.
+Risk is a triplet (Si, Pi, Ci) consisting of scenarios, probabilities of occurrence and consequences.
+The systemic risk management model consists of four stages: risk identification, risk quantification, risk response development and risk response control.
+Risk identification, risk analysis, risk reduction planning and risk mitigation plan implementation, risk monitoring and control.
+Inherent and residual risks, of hazard, uncertainty and opportunity, operational, hazard, strategic, financial, depending on the source of the risk.
+Risk management planning involves determining who is responsible for each individual risk, at all hierarchical levels and in all risk categories. Key activities are risk identification, risk analysis, risk reduction planning, risk mitigation plan implementation and risk tracking.
+A risk management plan (RMP) is prepared by a project manager to address risks, their potential impact on a program and consists of ways to reduce those risks.
+Risk identification methods may include brainstorming, managers' intuitive experience, interviews, questionnaires, and charts.
+Macroenvironmental analysis refers to the study of the external environment of the organization and the factors that can affect the organization, such as economic, political or social changes. Microenvironmental analysis refers to the study of the organization's internal environment and the factors that can affect its performance, such as the organization's resources and capabilities. Both analyzes are important in risk management planning, because they help to identify and evaluate potential risks.
+Risk management planning activities would include risk identification, risk analysis, risk reduction planning and risk mitigation plan implementation.
+The stages of risk identification would include brainstorming, using managers' intuitive experience, interviews and questionnaires.
+Brainstorming is a group method by which ideas are generated and possible risks are discussed. It can be used to identify potential risks related to a project or activity.
+Risk analysis is the process by which the identified risks are evaluated and the degree of their impact is determined. The methods used in this stage would include qualitative and quantitative risk analysis.
+Risk response planning involves establishing an action plan to reduce or manage identified risks. The activities involved would include establishing responsibilities, allocating resources and monitoring and controlling risk.
+The constant collection of information from various sources is ensured by using data collection methods such as questionnaires, interviews or direct observation, as well as by using an appropriate reporting system to centralize and analyze this information.
+The indicators used to evaluate project performance may include indicators such as cost, time, quality, risk, customer satisfaction and resource utilization.
+Systematic analysis mechanisms used to improve existing procedures in the project may include methods such as Pareto analysis, the Ishikawa diagram and the 5M method.
+Actions needed to evaluate the project results in terms of control include analyzing project performance, comparing actual performance with planned performance, and taking corrective action if necessary.
+The elements of the organization that are monitored to identify deviations from the project's objectives may include the project's activities, resources and results.
+To ensure that the project complies with the rules and principles of project management in terms of auditing, methods such as document review, staff interviewing and direct observation can be used.
+Information necessary for the timely execution of the project includes intermediate progress, the evolution of performance indicators, the use of resources and possible socio-economic changes.
+Intermediate progress and the evolution of performance indicators are evaluated by using methods such as variation analysis and trend analysis.
+The socio-economic changes that may result from the implementation of a project are monitored by using methods such as impact analysis and performance evaluation.
+The methods used to provide information necessary for the performance of the project to all interested parties in a timely manner include periodic reporting, effective communication and the use of a project management system.
+The methods used to collect and analyze data during project monitoring may include questionnaires, interviews, direct observations, data analysis and the use of an appropriate reporting system to centralize and analyze the information.
+Methods used to identify and correct deviations from planning in the project may include variation analysis, trend analysis, periodic reporting and the use of a project management system.
+The main indicators used to evaluate project performance may include cost, time, quality, risk, customer satisfaction and resource utilization.
+It is ensured that the collected information is relevant and up-to-date by using an appropriate reporting system, by periodically checking and updating this information and by ensuring that it is collected from appropriate and relevant sources.
+The team plays an important role in monitoring the project by providing information and participating in analyzes and evaluations. Team performance can be evaluated by using methods such as direct observation, interviews and questionnaires.
+The implications of the changes proposed in the project are evaluated by impact analysis and performance evaluation, by identifying risks and by taking into account the feedback from the interested parties.
+The rules and principles that must be respected during the project audit include impartiality, objectivity, professionalism and confidentiality.
+Ensure that the project audit is impartial and objective by using an impartial audit plan and by using several auditors to review the project.
+Methods used to assess risks and issues during project monitoring may include risk analysis and performance assessment, brainstorming and the use of a risk management system.
+Project monitoring plays an important role in decision-making by providing relevant and current information and by identifying problems or deviations from planning. This can help to improve the project by taking corrective measures and by adapting the planning to unforeseen changes.
+The processes included in project aquisitions management may include procurement planning, management, control and closing.
+The contract is a legal instrument that specifies the rules and agreements for the purchase and can be used as input for many processes within the project.
+Aquisitions management can be defined as the activities through which companies procure their products, services, skills and knowledge necessary for functioning in the best conditions.
+The stages of aquisitions planning may include identifying project needs that can be met through procurement, consideration of aquisition method, bidding term and delivery implementation, project analysis and monitoring.
+The awarding methods used in aquisitions management may include framework agreement, electronic auction and the dynamic aquisition system.
+The aquisiton methods used in aquisition management may include the open tender, the restricted tender, the competitive dialogue, the innovation partnership, the negotiation without prior publication, the solution competition, the simplified procedure.
+"Make" or "Buy" represents the decision to produce an internal good or service or to acquire this good or service from another company.
+Factors that can influence the "Make" or "Buy" decision can include costs, internal capacity, quality, delivery times and risks.
+Aquisitions within a project can be managed by using a aquisition plan, evaluating aquisition offers and monitoring and controlling the aquisition process.
+Closing purchases may involve finalizing contracts, paying suppliers and documenting the purchase process.
+The use of a aquisition plan can help to identify project needs that can be met through aquisitions, consideration of the aquisition method, bidding terms and delivery implementation, project analysis and monitoring.
+Methods used to evaluate acquisition offers may include price-based evaluation, quality-based evaluation, point-scoring evaluation, or value-for-money evaluation.
+The rules and principles that must be respected in the aqusition process may include compliance with the applicable legislation, transparency and fairness of the process, compliance with established bidding procedures and the objective evaluation of offers.
+The transparency and fairness of the aquisition process can be ensured by using clear procedures and criteria for evaluating the offers, informing all potential suppliers about the aquisition opportunities and by respecting the principle of non-discrimination.
+The legal implications of the aquisition process may include legal liability for violating the applicable legislation, the risk of being challenged in court and the risk of losing the contract if the established rules and principles are not respected.
+The advantages of using the Logical Framework Matrix in project management are: systematic planning, taking into account the vision of all interested persons (stakeholders), establishing the ways to successfully complete the project in relation to the basic assumptions, the method of presenting the content of a project in a way in which the logical and systematic establishment of the project's objectives is possible.
+The vertical logic refers to the relationship between the project's objectives (column I), the causal relationship between the different levels of the objectives (column I) and the main assumptions and uncertainties beyond the project manager's control possibilities (column IV).
+The horizontal logic refers to the evaluation of the effects of the project and the resources used (column II, III), as well as to the identification and specification of preconditions and factors that can influence the project (column IV).
+The causal relationship between the different levels of the objectives in the Logical Framework Matrix can be identified by logical and systematic analysis of the project's objectives and by establishing an action plan to achieve these objectives.
+The main assumptions and uncertainties beyond the control possibilities of the project manager can be specified by analyzing the project situation and the external factors that could affect the implementation and long-term sustainability of the project.
+The effects of the project and the resources used can be evaluated by monitoring and continuously evaluating the progress of the project and by comparing the results obtained with the established objectives.
+The necessary steps to develop the Logical Framework Matrix of a project include: identifying the project objectives, establishing the causal relationships between the different levels of the objectives, specifying the main assumptions and uncertainties, evaluating the effects of the project and the resources used, and developing a project monitoring and evaluation plan.
+In order to ensure that the Logical Framework Matrix is adapted to the needs and requirements of the target group, it is important to involve the target group in its development process and to consider their feedback during the development process.
+Ensuring that the Logical Framework Matrix is used in the project monitoring and evaluation process can be achieved by integrating it into the project monitoring and evaluation plan, as well as by ensuring that all interested parties are familiar with its use.
+The main problems that may arise in the use of the Logical Framework Matrix may include difficulties in its elaboration, understanding and application of the causal logic, ensuring adaptation to the needs and requirements of the target group and its use in the project monitoring and evaluation process. These can be solved by providing adequate training in the use of the Logical Framework Matrix, by carefully developing and verifying it by several people, by involving the target group in the development process and by constantly monitoring and evaluating the project in relation to the Logical Framework Matrix.

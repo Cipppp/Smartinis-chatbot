@@ -1,0 +1,503 @@
+###QUESTIONS###
+ce este un proiect la modul general?
+hello
+care sunt caracteristicile comune ale proiectelor?-COURSE1
+care sunt activitatile primare asociate cu operatiunile?
+care este diferenta intre proiecte si operatii?
+ce este un proiect in sens general?-COURSE1
+ce beneficii suplimentare se pot obtine din programe?
+ce sunt subproiectele si cum se diferentiaza de proiectele principale?
+care este caracteristica cheie a proiectelor?
+ce este temporalitatea si cum se aplica ea in proiecte?
+ce este unicitatea si cum se aplica ea in proiecte?
+care este definitia managementului de proiect conform pmi-usa?
+care sunt cerintele competitive in managementul de proiect?
+ce este o necesitate identificata si o necesitate neidentificata?
+care este definitia managementului de proiect conform apm-uk?
+cum se defineste sarcinile sau obiectivele unui proiect?
+cum se dezvolta un plan de indeplinire a obiectivelor unui proiect?
+care sunt tehnicile specifice utilizate in managementul de proiect?
+ce este rolul unui director de proiect?
+cum se asigura livrarea cu succes a rezultatului dorit in managementul de proiect?
+care sunt instrumentele si tehnicile utilizate in managementul de proiect?
+care sunt constrangerile comune ale proiectelor?
+care sunt responsabilitatile principale ale directorului de proiect?
+care sunt obiectivele principale ale conducerii in managementul de proiect?
+ce tipuri de comunicare sunt utilizate in managementul de proiect?
+care sunt scopurile negocierii in managementul de proiect?
+cum se abordeaza rezolvarea problemelor in managementul de proiect?
+care sunt etapele importante ale managementului general al proiectelor?
+ce este cultura organizationala si care sunt elementele ei cheie?
+care sunt principalele abilitati necesare pentru un lider in managementul de proiect?
+ce rol joaca planificarea in managementul de proiect?
+cum se asigura controlul cheltuielilor in timpul implementarii proiectului?
+ce este managementul relatiilor de lucru si care sunt aspectele cheie ale acestuia?
+care sunt elementele managementului individual si cum acestea pot fi aplicate in managementul de proiect?
+care sunt domeniile-cheie in care se aplica managementul general al proiectelor?
+care sunt beneficiile utilizarii planificarii strategice, tactice si operationale in managementul de proiect?
+ce este o structura organizationala adecvata pentru un proiect si cum poate fi implementata?
+care sunt principalele provocari in managementul de personal si cum pot fi acestea gestionate?
+care sunt metodele si instrumentele de motivare utilizate in managementul de proiect?
+cum se gestioneaza conflictele in cadrul proiectului?
+care sunt principalele provocari legate de managementul timpului personal si cum pot fi acestea gestionate?
+ce este raportul de inchidere a proiectului si ce informatii ar trebui sa contina acesta?
+care sunt cele doua semnificatii ale scopului unui proiect?
+care sunt caracteristicile scopului unui proiect?
+ce etape sunt necesare pentru definirea scopului unui proiect?
+care sunt elementele cheie in definirea scopului unui proiect?
+cum se planifica scopul unui proiect?
+ce este wbs si cum se utilizeaza in definirea scopului unui proiect?
+care sunt modelele de wbs utilizate in definirea scopului unui proiect?
+ce intrari sunt necesare pentru definirea functiei scopului unui proiect?
+ce tehnici sunt utilizate in planificarea scopului unui proiect?
+cum se gestioneaza schimbarile de scop in proiect?
+ce este o tripla constrangere in managementul proiectului si cum este ea gestionata?
+care sunt problemele sau riscurile cunoscute in definirea scopului unui proiect?
+ce sunt livrabilele proiectului si cum se iau in considerare in definirea scopului unui proiect?
+cum se defineste succesul in proiect si cum se masoara acesta?
+ce sunt ipotezele si excluderile si cum sunt ele utilizate in definirea scopului unui proiect?
+ce sunt reperele scopului proiectului si cum sunt ele utilizate in managementul proiectului?
+care sunt anagajatii si cum se iau in considerare in definirea scopului unui proiect?
+care sunt beneficiile analizei de produs si cum se foloseste aceasta in definirea scopului unui proiect?
+ce este analiza cost / beneficiu si cum se foloseste in definirea scopului unui proiect?
+care sunt avantajele identificarii alternativelor si cum se foloseste aceasta in definirea scopului unui proiect?
+ce este judecata expertilor si cum se foloseste aceasta in definirea scopului unui proiect?
+cum se revizuieste si se rafineaza wbs?
+ce este descrierea produsului si cum se foloseste aceasta in definirea scopului unui proiect?
+ce este planul strategic si cum se foloseste in definirea scopului unui proiect?
+ce este necesarul de piata si cum se ia in considerare in justificarea proiectului?
+cum se asigura alinierea proiectului cu dezvoltarea strategica a organizatiei?
+cum se evalueaza stabilitatea scopului proiectului?
+ce este analiza de valoare si cum se utilizeaza in analiza de produs?
+ce este analiza functionala si cum se utilizeaza in analiza de produs?
+ce sunt specificatiile de nivel inalt si cum se utilizeaza in definirea scopului unui proiect?
+cum se asigura claritatea si lipsa de ambiguitate in descrierea scopului proiectului?
+cum se asigura comunicarea eficienta cu grupul de stakeholder in declararea scopului proiectului?
+care sunt metodele utilizate pentru a asigura evolutia scopului proiectului?
+ce este un proiect cu multiple scopuri si cum se gestioneaza acesta?
+care sunt consecintele unui scop neclar sau ambiguu in proiect?
+ce este un scop smart si cum se utilizeaza acesta in definirea scopului unui proiect?
+ce este un scop bhag si cum se utilizeaza acesta in definirea scopului unui proiect?
+ce este un scop okr si cum se utilizeaza acesta in definirea scopului unui proiect?
+cum se asigura ca scopul unui proiect este alignat cu scopurile organizatiei mama?
+care sunt metodele utilizate pentru a evalua progresul catre scopul unui proiect?
+care sunt principiile, practicile, aptitudinile si sistemele utilizate in managementul timpului?
+care sunt beneficiile utilizarii managementului timpului?
+ce este modelul systemic in managementul timpului si care sunt etapele acestuia?
+care sunt intrarile in procesul de definire a activitatilor in managementul timpului?
+care sunt iesirile in procesul de definire a activitatilor in managementul timpului?
+care sunt intrarile in procesul de control al agendei de lucru?
+care sunt iesirile in procesul de control al agendei de lucru?
+care sunt instrumentele si tehnicile utilizate in controlul agendei de lucru?
+care sunt concluziile despre managementul timpului?
+cum poate managementul timpului sa creasca productivitatea si sa ajute la rezolvarea problemelor?
+cum poate managementul timpului sa ajute la pastrarea motivatiei si consistentei in munca in cadrul unui proiect?
+care sunt avantajele planificarii in managementul timpului?
+care sunt efectele performantei si disponibilitatii resurselor asupra duratei activitatilor si proiectului in general?
+ce este un plan de management al agendei de lucru?
+ce este actualizarea agendei de lucru si cum se face aceasta?
+ce sunt actiunile corective in managementul timpului?
+ce sunt bunele practici (lessons learned) in managementul timpului?
+ce sunt politicile si procedurile de control formale utilizate in managementul timpului?
+cum se evalueaza performanta in managementul timpului?
+ce sunt metodele de previziune pentru schimbari in managementul timpului?
+care sunt instrumente de management de proiect utilizate in controlul agendei de lucru?
+care sistem de control al schimbarilor este utilizat in managementul agendei de lucru?
+cum se planifica suplimentar in managementul timpului?
+ce este software-ul de pjm si cum este utilizat in managementul timpului?
+ce este managementul de cost?
+ce elemente include managementul de cost?
+ce este planificarea resurselor?
+ce este estimarea costurilor?
+ce este bugetarea costurilor?
+ce este controlul costurilor?
+ce este costul?
+ce este cheltuiala?
+ce este pretul?
+ce este consumul?
+ce este managementul costurilor?
+ce este diferenta dintre cost si cheltuiala?
+ce este sfera cheltuielilor si cum se poate include in sfera costurilor?
+care sunt factorii care contribuie la formarea pretului?
+ce este pretul de desfacere?
+ce este diferenta dintre managementul costurilor la nivel de proiect si la nivel de business?
+ce este rolul costului in definirea succesului unui proiect?
+care sunt beneficiile managementului costurilor?
+care este importanta planificarii resurselor in managementul costurilor?
+care este importanta estimarii costurilor in managementul costurilor?
+care este importanta determinarii bugetului in managementul costurilor?
+care este importanta controlului costurilor in managementul costurilor?
+care este originea cuvantului "cost"?
+ce semnificatie are cuvantul "cost" in limba latina?
+ce este transferul de valoare in contextul consumului?
+ce inseamna "constare" din care provine cuvantul "cost"?
+ce inseamna "costa" din care provine cuvantul "cost"?
+ce inseamna "platile facute de o organizatie catre terti pentru marfurile si serviciile de care beneficiaza si valoarea implicita a oricarui bun" in ceea ce priveste costul?
+care este diferenta intre cost si plata?
+care este diferenta intre cheltuiala si plata?
+care este definitia managementului calitatii in proiecte?
+care sunt beneficiile principale ale satisfacerii cerintelor de calitate in proiecte?
+care sunt instrumentele si tehnicile utilizate pentru planificarea calitatii in proiecte?
+care sunt factorii interni si externi care pot afecta calitatea unui proiect?
+care sunt etapele ciclului de activitati pentru imbunatatirea calitatii?
+care sunt instrumentele si tehnicile utilizate pentru asigurarea calitatii in proiecte?
+care sunt obiectivele controlului calitatii in proiecte?
+cum poate fi corectata o problema de calitate in proiect cat mai curand posibil?
+care sunt beneficiile auditurilor de calitate in proiecte?
+cum poate fi utilizat controlul statistic al proceselor in asigurarea calitatii in proiecte?
+ce este ciclul de activitati pentru imbunatatirea calitatii?
+care este scopul auditurilor de calitate in proiecte?
+care este rolul controlului calitatii in managementul proiectelor?
+care sunt beneficiile utilizarii diagramelor in planificarea calitatii in proiecte?
+ce este cost-beneficiu analiza si cum poate fi utilizat in managementul calitatii in proiecte?
+care este rolul benchmarking-ului in planificarea calitatii in proiecte?
+ce este diagrama cauza-efect si cum poate fi utilizat in managementul calitatii in proiecte?
+care sunt factorii care afecteaza calitatea proiectelor
+care sunt beneficiile proiectarii experimentelor in managementul calitatii in proiecte?
+ce este asigurarea calitatii in proiecte si care sunt beneficiile acesteia?
+care sunt cele 10 caracteristici esentiale pentru eficienta managementului resurselor umane?
+care sunt obiectivele managementului resurselor umane?
+care sunt activitatile specifice ale managementului resurselor umane?
+ce este organizarea resurselor umane?
+ce este procesul de recrutare?
+care sunt metodele utilizate pentru recrutarea interna si externa?
+care sunt instrumentele si tehnicile utilizate in procesul de recrutare?
+ce este gestiunea personalului?
+care sunt metodele de aplanare a conflictelor?
+ce este teoria z a lui william ouchi?
+care sunt principiile teoriei asteptarilor?
+cum se poate evolua o echipa prin intermediul managementului resurselor umane?
+care sunt metodele de rasplatire a echipei?
+cum poate fi gestionat un conflict in cadrul unei echipe de proiect?
+care sunt avantajele si dezavantajele recrutarii interne si externe?
+care sunt factorii ce trebuie avuti in vedere in procesul de recrutare?
+care este rolul managerului in procesul de recrutare?
+care sunt beneficiile si riscurile implicate in aplicarea teoriei z in managementul resurselor umane?
+cum poate fi utilizata teoria asteptarilor in managementul resurselor umane?
+care sunt metodele cele mai eficiente de aplanare a conflictelor in cadrul unei echipe de proiect?
+ce este comunicarea manageriala?
+care este rolul comunicarii in cadrul unei organizatii?
+care sunt componentele procesului de comunicare?
+ce este managementul comunicarii?
+care sunt cele patru procese ale managementului comunicarii?
+ce este modelul lasswell?
+ce este modelul shannon?
+ce este modelul wiener?
+care este rolul comunicarii in cadrul unui proiect?
+care sunt aspectele pe care managementul comunicarii trebuie sa le adreseze in cadrul unui proiect?
+ce este planificarea comunicarii?
+care este rolul distribuirii informatiei in managementul comunicarii?
+cum se raporteaza performanta in managementul comunicarii?
+ce este managementul stakeholderilor in managementul comunicarii?
+ce impact poate avea o comunicare eficienta sau ineficienta in cadrul unui proiect?
+ce este definitia riscului conform dictionarului explicativ al limbii romane?
+ce inseamna riscul conform iso/iec guide 73 si iso 31000?
+care este tripletul care formeaza riscul?
+ce este modelul sistemic al managementului de risc?
+care sunt cele 4 etape ale modelului sistemic al managementului de risc?
+care sunt cele 3 tipologii de risc?
+ce este planificarea managementului de risc si care sunt activitatile cheie?
+ce este un plan de management al riscului (rmp)?
+care sunt metodele de identificare a riscurilor?
+ce este analiza de macromediu si cea de micromediu in planificarea managementului riscului?
+ce activitati se desfasoara in cadrul planificarii managementului riscurilor?
+care sunt etapele identificarii riscurilor?
+ce este brainstorming-ul si cum poate fi utilizat in identificarea riscurilor?
+ce este analiza de risc si care sunt metodele utilizate in aceasta etapa?
+cum se planifica raspunsul la risc si ce activitati sunt implicate?
+cum se asigura colectarea constanta de informatii din diverse surse pentru monitorizarea proiectului?
+ce indicatori se masoara pentru a evalua performanta proiectului?
+ce mecanisme de analiza sistematica se folosesc pentru a imbunatati procedurile existente in proiect?
+ce actiuni sunt necesare pentru a evalua rezultatele proiectului in ceea ce priveste controlul?
+care sunt elementele organizatiei care se monitorizeaza pentru a identifica abaterile de la obiectivele proiectului?
+cum se asigura ca proiectul respecta regulile si principiile managementului de proiect in ceea ce priveste auditul?
+ce informatii sunt necesare pentru a efectua o monitorizare eficienta a proiectului?
+cum se evalueaza progresele intermediare si evolutia indicatorilor de performanta in timpul monitorizarii proiectului?
+care sunt schimbarile socio-economice care pot rezulta din implementarea unui proiect si cum se monitorizeaza acestea?
+ce modalitati se folosesc pentru a furniza informatii necesare pentru efectuarea proiectului catre toate partile interesate in timp util?
+care sunt metodele utilizate pentru a colecta si analiza datele in timpul monitorizarii proiectului?
+care sunt metodele utilizate pentru a identifica si corecta abaterile de la planificare in proiect?
+care sunt principalele indicatori utilizati pentru a evalua performanta proiectului?
+cum se asigura ca informatiile colectate sunt relevante si actuale pentru monitorizarea proiectului?
+ce rol joaca echipa in monitorizarea proiectului si cum se evalueaza performanta acesteia?
+care sunt implicatiile schimbarilor propuse in proiect si cum se evalueaza acestea?
+care sunt regulile si principiile care trebuie respectate in timpul auditului proiectului?
+cum se asigura ca auditul proiectului este impartial si obiectiv?
+care sunt metodele utilizate pentru a evalua riscurile si problemele in timpul monitorizarii proiectului?
+ce rol joaca monitorizarea proiectului in luarea deciziilor si imbunatatirea proiectului?
+care sunt procesele incluse in managementul achizitiilor de proiect?
+ce rol joaca contractul in procesul de achizitie?
+care sunt definitiile managementului achizitiilor?
+care sunt etapele planificarii achizitiilor?
+care sunt metodele de atribuire utilizate in managementul achizitiilor?
+care sunt modalitatile de achizitie utilizate in managementul achizitiilor?
+ce este "make" sau "buy"?
+care sunt factorii care influenteaza decizia privind "make" sau "buy"?
+cum se gestioneaza si se controleaza achizitiile in cadrul unui proiect?
+ce rol joaca inchiderea achizitiilor in managementul achizitiilor?
+care sunt beneficiile utilizarii unui plan de achizitii?
+care sunt metodele utilizate pentru a evalua ofertele de achizitie?
+care sunt regulile si principiile care trebuie respectate in procesul de achizitie?
+cum se asigura transparenta si echitatea procesului de achizitie?
+care sunt implicatiile legale ale procesului de achizitie?
+care sunt avantajele utilizarii matricii cadru logic in managementul proiectului?
+ce este logica verticala si cum functioneaza aceasta in matricea cadru logic?
+ce este logica orizontala si cum functioneaza aceasta in matricea cadru logic?
+cum se identifica si clarifica relatia cauzala intre diferitele niveluri ale obiectivelor in matricea cadru logic?
+cum se specifica principalele ipoteze si incertitudinile in afara posibilitatilor de control a directorului de proiect in matricea cadru logic?
+cum se evalueaza efectele proiectului si a resurselor folosite in matricea cadru logic?
+care sunt pasii necesari pentru elaborarea matricii cadru logic a unui proiect?
+cum se asigura ca matricea cadru logic este adaptata la necesitatile si cerintele grupului tinta?
+cum se asigura ca matricea cadru logic este utilizata in procesul de monitorizare si evaluare a proiectului?
+care sunt principalele probleme care pot aparea in utilizarea matricii cadru logic si cum pot fi acestea rezolvate?
+###ANSWERS###
+ce este un proiect in general?
+hi!
+caracteristicile comune ale proiectelor sunt: sunt realizate de catre oameni, sunt supuse constrangerilor unor resurse limitate, sunt planificate, executate si controlate
+activitatile primare asociate cu operatiunile sunt cele cu caracter de rutina
+proiectele sunt activitati temporare, unice si complexe, care au ca scop realizarea unui produs sau serviciu nou, in timp ce operatiunile sunt activitati primare, cu caracter de rutina
+in sens general, un proiect este ansamblul operatiunilor desfasurate intr-o organizatie, in vederea realizarii unui scop
+programele sunt un grup de proiecte, conduse coordonat, pentru a obtine beneficii suplimentare
+subproiectele sunt componente ale unui proiect ce pot fi mai usor controlate
+caracteristica cheie a proiectelor este ca produsele sunt elaborate progresiv
+temporalitatea este caracteristica ca un proiect sa aiba un sfarsit, care coincide cu indeplinirea scopurilor sale sau cu imposibilitatea indeplinirii sarcinilor acestuia
+unicitatea este caracteristica ca produsele sa fie unice si diferite de scopul proiectului
+pmi-usa defineste managementul de proiect ca aplicarea cunostiintelor, tehnicilor, aptitudinilor si instrumentelor specifice in vederea proiectarii activitatilor ce sunt conforme cu asteptarile grupurilor de beneficiari (stakeholders)
+cererile competitive in managementul de proiect sunt scopul, timpul si calitatea, necesitatile identificate si neidentificate si asteptarile utilizatorilor
+necesitatea identificata este o cerinta clara si specifica, in timp ce necesitatea neidentificata este o asteptare sau dorinta neclara a beneficiarului
+apm-uk defineste managementul de proiect ca modalitatea cea mai eficienta de a introduce schimbari in structura unui sistem
+sarcinile sau obiectivele unui proiect sunt definite ca activitati unice, complexe si conectate care trebuie finalizate in termen de timp, cost si alti parametri tehnici si de calitate
+un plan de indeplinire a obiectivelor unui proiect se dezvolta prin identificarea activitatilor necesare pentru a atinge obiectivele, stabilirea termenelor si a costurilor, si identificarea resurselor necesare
+tehnicile specific utilizate in managementul de proiect sunt planificarea si programarea, controlul si monitorizarea progresului, gestionarea riscurilor, gestionarea calitatii si gestionarea comunicatiilor
+rolul unui director de proiect este de a conduce echipa de proiect si de a asigura livrarea cu succes a rezultatului dorit
+livrarea cu succes a rezultatului dorit in managementul de proiect se realizeaza prin planificarea si programarea activitatilor, controlul si monitorizarea progresului, gestionarea riscurilor, gestionarea calitatii si gestionarea comunicatiilor eficiente cu toti stakeholderii
+instrumentele si tehnicile utilizate in managementul de proiect sunt planificarea si programarea, controlul si monitorizarea progresului, gestionarea riscurilor, gestionarea calitatii, gestionarea comunicatiilor, gestionarea resurselor si gestionarea bugetului
+constrangerile comune ale proiectelor sunt timpul, costul, calitatea, resursele si schimbarea
+responsabilitatile principale ale directorului de proiect sunt coordonarea tuturor activitatilor proiectului, conducerea echipei spre atingerea obiectivelor stabilite si asigurarea ca proiectul se desfasoara conform planului si bugetului aprobat
+obiectivele principale ale conducerii in managementul de proiect sunt stabilirea directiei generale de evolutie a proiectului, alinierea personalului la ideile liderului, motivarea si inspirarea personalului
+in managementul de proiect sunt utilizate comunicarea scrisa si orala, interna si externa, formala si informal, orizontala si verticala
+scopurile negocierii in managementul de proiect sunt stabilirea scopului, costului, agendei de realizare a obiectivelor, termenilor si conditiilor contractului, evaluarii si resurselor
+problemele sunt definite si rezolvate prin identificarea cauzelor si efectelor si prin luarea unei decizii, care poate fi "corecta" dar nu neaparat optima
+etapele importante ale managementului general al proiectelor sunt contabilitate/financiar, vanzari si marketing, dezvoltare/cercetare, productie si distributie; planificare strategica, planificare tactica, planificare operationala; structuri organizationale, dezvoltare organizationala, administrare de personal, compensari, beneficii; managementul relatiilor de lucru (motivare, delegare, supervizare, constructia grupurilor de lucru, managementul conflictelor); managementul individual (managementul timpului de lucru personal, managementul de stress)
+cultura organizationala este climatul si practicile pe care organizatiile le dezvolta in interactiunea cu oameniivalorile, misiunea, regulamentele, metodele si procedurile, sistemele de motivare, mediul organizational si managementul schimbarii sunt elementele-cheie ale culturii organizationale
+abilitatile principale necesare pentru un lider in managementul de proiect sunt conducerea, comunicarea, negocierea si rezolvarea problemelor
+planificarea este esentiala in managementul de proiect, deoarece ajuta la definirea obiectivelor, stabilirea calendarului si managementul costurilor
+controlul cheltuielilor se asigura prin monitorizarea si raportarea acestora, comparandu-le cu bugetul aprobat si luand masuri pentru a se incadra in acesta
+managementul relatiilor de lucru se refera la abilitatea de a motiva, delega, superviza si construi grupuri de lucru eficiente, precum si la capacitatea de a gestiona conflictele care pot aparea in cadrul proiectului
+managementul individual se refera la abilitatile si metodele utilizate pentru a gestiona timpul de lucru personal si a gestiona stresul in mod eficient
+managementul general al proiectelor se aplica in domenii precum contabilitate/financiar, vanzari si marketing, dezvoltare/cercetare, productie si distributie
+planificarea strategica, tactica si operationala ajuta la definirea obiectivelor pe termen lung, mediu si scurt, respectiv sa se asigure ca acestea sunt atinse in mod eficient
+o structura organizationala adecvata pentru un proiect poate include o echipa de conducere, echipe de proiect si pozitii individuale specializateeste important sa se asigure ca aceasta este adaptata necesitatilor proiectului si ca exista o buna comunicare si colaborare intre membrii echipei
+managementul de personal include recrutarea, instruirea si dezvoltarea personalului, precum si gestionarea compensarilor si beneficiilor acestoraprovocarile pot include atragerea si mentinerea personalului calificat, precum si gestionarea performantei acestora
+sistemele de motivare pot include recompense financiare si non-financiare, precum si programe de dezvoltare profesionala
+managementul conflictelor implica identificarea si abordarea surselor de conflict in mod eficient, cu scopul de a se ajunge la o solutie satisfacatoare pentru toate partile implicate
+managementul timpului personal poate include metode precum stabilirea prioritatilor, organizarea si planificarea activitatilor
+raportul de inchidere a proiectului ar trebui sa contina informatii precum rezultatele obtinute, problemele intampinate si cum au fost rezolvate, precum si recomandari pentru proiecte viitoare
+scopul de produs reprezinta functiile si atributele care caracterizeaza un produs sau un serviciu, iar scopul propriu-zis al proiectului reprezinta resursele necesare (umane sau tehnologice) pentru a crea un material finit care corespunde scopului de produs
+caracteristicile scopului unui proiect ar putea include descrierea proiectului in termeni obiectivi si lipsiti de ambiguitate, identificarea produselor, serviciilor si altor elemente livrabile, definirea elementelor din afara domeniului de aplicabilitate pentru a elimina neintelegerile, oferirea unei viziuni comune, definirea criteriilor pentru masurarea succesului si controlul evolutiei scopului
+etapele necesare pentru definirea scopului unui proiect ar putea include revizuirea si aprobarea partilor interesate, identificarea problemelor sau riscurilor cunoscute, definirea livrabilelor proiectului, definirea obiectivelor proiectului, definirea cerintelor de nivel inalt, identificarea ipotezelor si excluderilor si definirea reperelor scopului proiectului
+elementele cheie in definirea scopului unui proiect ar putea include anagajatii, planificarea scopului, wbs (descompunerea activitatilor), definirea functiei scop, managementul de scop si tripla constrangere
+planificarea scopului poate include iesiri precum declararea scopului, care include justificarea proiectului necesarul de piata pe care proiectul trebuie sa-l acopere, produsul/serviciul proiectului, obiectivele proiectului, elementele insotitoare ale proiectului, cerintele de nivel inalt si ipotezele si excluderilemanagementul de scop descrie modul de atingere a scopului si modul in care schimbarile de scop vor fi integrate in proiectwbs (descompunerea activitatilor) descrie lucrarile care urmeaza sa fie executate de catre echipa de proiect pentru a realiza obiectivele proiectului
+definitia functiei scop poate include intrari precum descrierea produsului, planul strategic, necesarul de piata, analiza de produs, analiza cost/beneficiu, identificarea alternativelor, judecata expertilor, wbs si modelele wbs
+tripla constrangere in managementul proiectului se refera la limitarile impuse de scopul, durata si costul obiectivelor unui proiectmanagerul de proiect trebuie sa ia in considerare aceste trei obiective competitive si sa le echilibreze pentru a crea un proiect de succes
+smart scopul este un obiectiv specific, masurabil, realist, relevant si limitat temporalacest tip de obiectiv este utilizat pentru a asigura ca scopul unui proiect este clar, obiectiv si masurabil
+bhag este un acronim pentru "big hairy audacious goal" (obiectiv mare si indraznet) si se refera la un scop ambitios si provocator, care poate fi atins in termen lungacest tip de scop este utilizat pentru a motiva echipa si pentru a asigura o directie clara pentru proiect
+okr sau obiectivele si indicatorii de performanta cheie este o metoda utilizata pentru a defini si a masura progresul in atingerea obiectivelor organizatiei sau proiectului
+mind-mapping este o metoda de organizare a ideilor si colectarea informatiilor prin crearea unei structuri vizuale care conecteaza ideile principale si subiectele aferenteaceasta poate fi utilizata in procesul de definire a scopului unui proiect pentru a organiza si a conecta diferitele aspecte ale proiectului si a ajuta la identificarea legaturilor si interdependentelor dintre ele
+analiza de produs este o metoda utilizata pentru a obtine o mai buna intelegere a produselor proiectuluiaceasta poate include tehnici precum analiza de valoare, engineering, analiza functionala si altele
+analiza cost/beneficiu este o metoda utilizata pentru a estima costurile si beneficiile diferitelor alternative de realizare a proiectului si pentru a evalua cea mai buna alternativa
+identificarea alternativelor poate include utilizarea tehnicilor de brainstorming sau gandire laterala pentru a genera si a evalua diferite optiuni pentru realizarea proiectului
+judecata expertilor implica utilizarea cunostintelor si experientei specialistilor pentru a evalua diferite optiuni si a lua decizii in procesul de definire a scopului unui proiect
+descompunerea activitatilor (wbs) implica identificarea obiectivului final al proiectului, identificarea livrabilelor majore, descompunerea acestor livrabile in niveluri suplimentare si revizuirea si rafinarea wbs-uluiacest proces ajuta la organizarea si planificarea activitatilor necesare pentru realizarea obiectivelor proiectului
+exista diferite modele de wbs, cum ar fi top-down, bottom-up, analogia si mind-mappingfiecare model are avantaje si dezavantaje si poate fi mai potrivit pentru anumite proiecte sau obiective
+intelegerea necesarului de piata este importanta pentru justificarea proiectului si definirea scopului acestuiaaceasta poate include analiza cererii potentiale pentru produsul sau serviciul proiectului si evaluarea concurentei
+cerintele de nivel inalt sunt specificatii generale pentru proiect, descrise la nivel de rezumat si pot include o descriere tehnica a proiectuluiacestea sunt utilizate pentru a defini scopul proiectului si pentru a furniza o viziune comuna a acestuia
+ipotezele si excluderile sunt responsabilitatile si deciziile utilizate pentru a clarifica scopul proiectului si pentru a elimina ambiguitatile
+reperele scopului proiectului sunt evenimente cu durata zero care marcheaza progresul proiectului pe tot parcursul acestuiaacestea sunt utilizate pentru a monitoriza progresul proiectului si pentru a asigura ca acesta se indreapta spre indeplinirea scopului sau
+revizuirea si aprobarea partilor interesate este o etapa importanta in definirea scopului unui proiectaceasta ajuta la oficializarea scopului proiectului si la asigurarea ca acesta este inteles si acceptat de toti stakeholderii implicati
+problemele sau riscurile cunoscute sunt potentialele probleme sau riscuri ale proiectului, care trebuie luate in considerare in procesul de definire a scopului si planificare a proiectului
+livrabilele proiectului sunt rezultatele asteptate ale proiectului, care trebuie definite si incluse in procesul de definire a scopului si planificare a proiectului
+obiectivele proiectului sunt obiectivele generale care trebuie sa satisfaca nevoile clientilor si sa indeplineasca scopul proiectuluiacestea trebuie definite clar si cuantificabil
+criteriile pentru masurarea succesului sunt utilizate pentru a evalua daca proiectul a atins scopul sau si daca obiectivele sale au fost indeplinite
+controlul evolutiei scopului este procesul de monitorizare si adaptare a scopului proiectului pe masura ce acesta evolueaza pentru a reduce impactul asupra organizarii si a resurselor
+anajatii sunt persoanele responsabile pentru realizarea task-urilor proiectului si trebuie luati in considerare in procesul de definire a scopului si planificare a proiectului
+planul strategic este documentul care descrie strategia organizatiei si cum proiectul se aliniaza la aceastaacesta trebuie luat in considerare in procesul de definire a scopului si planificare a proiectului pentru a asigura ca proiectul este aliniat cu obiectivele organizatiei
+analiza de produs este o tehnica utilizata pentru o mai buna intelegere a produselor proiectului, cum ar fi analiza de valoare, engineering, analiza functionala, etc
+analiza cost / beneficiu este utilizata pentru a estima costurile si beneficiile diferitelor alternative de realizare a proiectului si pentru a evalua cea mai buna alternativa
+identificarea alternativelor se poate face prin tehnici de brainstorming sau gandire laterala
+judecata expertilor este utilizata pentru a obtine opinii si evaluari din partea specialistilor in domeniu, pentru a ajuta la definirea scopului si planificarea proiectului
+top-down este un model de wbs care se bazeaza pe descompunerea obiectivului in componente, folosind o reprezentare pe nivele de complexitate
+bottom-up este un model de wbs care se bazeaza pe inceperea cu actiuni specifice si organizarea acestora catre obiective / rezultate, utilizand agregarea pe componente
+analogia este un model de wbs care se bazeaza pe utilizarea unor modele existente si modificarea acestora in functie de necesitati, influentata de gradul de similitudine al obiectiveloracest model necesita existenta unor documente din proiecte precedente
+mind-mapping este un model de wbs care se bazeaza pe o colectie de idei legate intre ele, prin intermediul unei structuri grafice
+descompunerea activitatilor (wbs) implica identificarea obiectivului final al proiectului, identificarea livrabilelor majore, niveluri suplimentare de descompunere si revizuirea si rafinarea wbs-ului
+ipotezele si excluderile sunt responsabilitati si decizii utilizate pentru a clarifica scopul proiectului
+definirea functiei scopului proiectului este un proces continuu care implica revizuirea si adaptarea scopului pe masura ce proiectul evolueaza
+principiile utilizate in managementul timpului sunt planificarea, prioritizarea, organizarea, delegarea, si controlulpracticile includ stabilirea obiectivelor, stabilirea termenelor limita, planificarea si programarea, monitorizarea si evaluarea progresului si optimizarea utilizarii timpuluiaptitudinile necesare sunt capacitatea de a lua decizii, capacitatea de a comunica, capacitatea de a delega, auto-disciplina, si capacitatea de a gestiona mai multe sarcini in acelasi timpsistemele utilizate in managementul timpului sunt agendele, planificatoarele, listele de sarcini si hartile mentale
+beneficiile utilizarii managementului timpului sunt cresterea productivitatii si eficientei, reducerea stresului, imbunatatirea relatiilor interpersonale, si atingerea obiectivelor
+modelul systemic in managementul timpului cuprinde urmatoarele etape: definirea activitatilor, secventierea activitatilor, estimarea duratei, dezvoltarea agendei de lucru si controlul agendei de lucru
+intrarile in procesul de definire a activitatilor sunt planul agendei de lucru, scopul proiectului, structura de descompunere a muncii, constrangerile si ipotezele de lucru, materialele de referinta, factorii de mediu ai organizatiei si procesele organizatiei
+iesirile in procesul de definire a activitatilor sunt lista activitatilor, atributele activitatilor, materialele de suport si documentatia procesului
+intrarile in procesul de control al agendei de lucru sunt agenda de lucru a proiectului, rapoartele de performanta si solicitarile de schimbari si planul de management al agendei de lucru
+iesirile in procesul de control al agendei de lucru sunt performanta proiectului, actiunile corective, actualizarea agendei de lucru si documentatiile procesului
+instrumentele si tehnicile utilizate in controlul agendei de lucru sunt politicile si procedurile de control formale, diagramele de retea aoa, tehnica de probabilitate, evaluarea performantei, metodele de previziune pentru schimbari, software-ul de management de proiecte si sistemul de control al schimbarilor
+concluziile despre managementul timpului sunt ca este necesara o planificare cat mai detaliata pentru a putea urma cat mai bine agenda de lucru dezvoltata si ca performanta si disponibilitatea resurselor influenteaza durata activitatilor si prin urmare a proiectului
+managementul timpului poate creste productivitatea prin imbunatatirea organizarii activitatilor si prin identificarea si eliminarea activitatilor inutile sau redundantelorde asemenea, poate ajuta la rezolvarea problemelor prin identificarea si prioritizarea problemelor si prin planificarea si alocarea resurselor necesare pentru rezolvarea acestor probleme
+managementul timpului poate ajuta la mentinerea motivatiei si consistentei in munca prin oferirea unui cadru clar pentru activitatile ce trebuie realizate, prin furnizarea unui plan de actiune si prin monitorizarea progresuluiaceasta poate ajuta membrii proiectului sa se concentreze pe sarcinile importante, sa vada progresul si sa simta ca fac parte dintr-un proiect important
+planificarea este importanta in managementul timpului pentru a asigura ca activitatile sunt realizate la timp, pentru a evita suprasolicitarea sau subutilizarea resurselor si pentru a anticipa si gestiona problemele care pot aparea
+performanta si disponibilitatea resurselor pot afecta durata activitatilor si proiectul in general prin intarzierea sau accelerarea realizarii activitatilor, prin necesitatea de a aloca resurse suplimentare sau prin necesitatea de a reduce resursele alocate
+un plan de management al agendei de lucru este un document care descrie modul in care se va gestiona si se va monitoriza progresul proiectului in timp
+actualizarea agendei de lucru implica revizuirea si modificarea planului de lucru in functie de progresul realizat, problemele identificate si schimbarile necesare pentru a se indeplini obiectivele proiectului
+actiunile corective sunt activitati suplimentare care sunt implementate pentru a aduce proiectul inapoi pe linia de plutire, pentru a-l aduce in conformitate cu planul proiectului
+bunele practici (lessons learned) in managementul timpului sunt experientele si invatamintele dobandite in timpul gestionarii proiectului, care pot fi documentate si utilizate pentru a imbunatati gestionarea proiectelor viitoare
+politicile si procedurile de control formale utilizate in managementul timpului pot include reguli si regulamente pentru planificarea, monitorizarea si raportarea progresului proiectului, precum si proceduri pentru gestionarea schimbarilor si riscurilor
+performanta in managementul timpului poate fi evaluata prin compararea progresului realizat cu planul proiectului, prin analizarea indicatorilor de performanta specifici si prin evaluarea feedback-ului de la stakeholderi
+metodele de previziune pentru schimbari in managementul timpului pot include analize de tip "what-if" si simulari pentru a estima impactul potential al schimbarilor asupra proiectului
+instrumente de management de proiect utilizate in controlul agendei de lucru pot include diagrame de retea aoa, tehnici de probabilitate si software de management de proiecte
+in managementul agendei de lucru, sistemul de control al schimbarilor include variantele (metodele) de schimbare ale agendei de lucru: sistemul de urmarire, de aprobari, etc
+in managementul timpului, planificarea suplimentara poate fi necesara pentru a gestiona schimbarile in proiect, cum ar fi estimarea duratei activitatilor, modificarea secventei activitatilor, analiza comparativa a agendelor de lucru (variante)
+software-ul de pjm (project management) este un instrument utilizat in managementul proiectelor care permite planificarea, urmarirea si controlul activitatilor si resurselor proiectului, precum si generarea rapoartelor si analizele performantei proiectuluiacesta poate fi utilizat in managementul timpului pentru a asista in planificarea, urmarirea si controlul agendei de lucru
+managementul de cost este procesul de planificare si control al bugetului unui proiect sau al unei afaceri
+managementul de cost include planificarea resurselor, estimarea costurilor, bugetarea costurilor si controlul costurilor
+planificarea resurselor este procesul de alocare si gestionare a resurselor necesare pentru un proiect sau o afacere
+estimarea costurilor este procesul de previziune a costurilor necesare pentru un proiect sau o afacere
+bugetarea costurilor este procesul de stabilire a unui buget pentru un proiect sau o afacere
+controlul costurilor este procesul de monitorizare si evaluare a costurilor pentru a se asigura ca acestea raman in limitele bugetului stabilit
+costul este suma de bani cheltuita pentru producerea sau cumpararea unui bun sau prestarea unui serviciu
+cheltuiala este consumul de mijloace materiale, munca, energie pentru satisfacerea unor nevoi
+pretul este expresia baneasca a valorii unei marfii sau a unui serviciu
+consumul este utilizarea de bunuri materiale si servicii in scopul satisfacerii nevoilor
+managementul costurilor este ansamblul de activitati de organizare, conducere si gestiune a costurilor
+costul este efortul de munca vie si materializata pe care un agent economic il depune pentru fabrica unui produs, pentru executarea unei lucrari sau a unui serviciu, consum efectiv de resurse pentru obtinerea unui rezultat, in timp ce cheltuiala reprezinta o plata si apare in sfera aprovizionarii si a desfacerii
+sfera cheltuielilor se poate include in sfera costurilor, deoarece aceasta este mult mai vasta sim ai complexa
+factorii care contribuie la formarea pretului sunt costurile productiei, cererea si oferta, concurenta si taxele
+pretul de desfacere este pretul de vanzare al unui produs sau serviciu
+managementul costurilor la nivel de proiect se refera la managementul costurilor pentru un proiect specific, in timp ce managementul costurilor la nivel de business se refera la managementul costurilor pentru intreaga afacere
+costul este unul dintre cele mai utilizate criterii pentru a defini succesul unui proiect, deoarece este universal inteles si usor de masurat
+beneficiile managementului costurilor sunt: asigurarea ca proiectul sau afacerea se desfasoara in limitele bugetului, identificarea si solutionarea problemelor de cost in timp util, imbunatatirea eficientei si eficacitatii proiectului sau afacerii
+planificarea resurselor este importanta in managementul costurilor deoarece permite alocarea si gestionarea eficienta a resurselor necesare pentru proiect sau afacere, evitarea suprasolicitarii resurselor si reducerea costurilor inutile
+estimarea costurilor este importanta in managementul costurilor deoarece permite planificarea si bugetarea corecta a proiectului sau afacerii, previzionarea costurilor necesare, identificarea si gestionarea riscurilor si asigurarea ca proiectul sau afacerea se desfasoara in limitele bugetului
+determinarea bugetului este importanta in managementul costurilor deoarece ofera o baza clara pentru monitorizarea si controlul costurilor proiectului sau afacerii, incurajeaza responsabilizarea si ofera o baza pentru luarea deciziilor
+controlul costurilor este important in managementul costurilor deoarece permite monitorizarea si evaluarea costurilor proiectului sau afacerii, identificarea si solutionarea problemelor de cost in timp util, imbunatatirea eficientei si eficacitatii proiectului sau afacerii
+originea cuvantului "cost" provine din limba latina "constare" care inseamna a stabili, a fixa
+in limba latina, cuvantul "cost" are semnificatia de a stabili sau a fixa
+transferul de valoare in contextul consumului se refera la transferul valorii de la factorii de productie la serviciile destinate vanzarii sau consumului propriu
+"constare" din care provine cuvantul "cost" inseamna a stabili sau a fixa
+"costa" din care provine cuvantul "cost" inseamna consumul de producerea al unui obiect
+"platile facute de o organizatie catre terti pentru marfurile si serviciile de care beneficiaza si valoarea implicita a oricarui bun – forta de munca, teren, capital – pe care firma si’l livreaza ei insasi" in ceea ce priveste costul, se refera la suma totala de bani platiti de o organizatie pentru produsele si serviciile necesare si valoarea implicita a oricarui bun pe care organizatia il produce sau il furnizeaza ei insisi
+diferenta dintre cost si plata este ca costul este suma totala de bani platiti pentru produsele si serviciile necesare, in timp ce plata se refera la o suma de bani platita pentru un anumit bun sau serviciu specific
+diferenta dintre cheltuiala si plata este ca cheltuiala este consumul de mijloace materiale, munca, energie pentru satisfacerea unor nevoi, in timp ce plata se refera la o suma de bani platita pentru un anumit bun sau serviciu specific
+managementul calitatii in proiecte se refera la procesul de stabilire si mentinere a unui nivel de calitate asteptat pentru un proiect, de la inceput pana la finalizarea acestuia
+beneficiile principale ale satisfacerii cerintelor de calitate in proiecte includ reducerea modificarilor in proiecte, ceea ce inseamna costuri mai reduse si o satisfactie mai mare a partilor interesate
+instrumentele si tehnicile utilizate pentru planificarea calitatii in proiecte includ analiza cost-beneficiu, benchmarking, utilizarea diagramei cauza-efect, scheme de flux ale proceselor sau sistemelor, si proiectarea experimentelor
+factorii interni care pot afecta calitatea unui proiect includ evaluarea eronata a resurselor disponibile si planificarea necorespunzatoare a activitatilor proiectuluifactorii externi care pot afecta calitatea unui proiect includ schimbarile in cerintele sau regulamentele legale si modificarile in conditiile economice sau de piata
+etapele ciclului de activitati pentru imbunatatirea calitatii sunt: planifica, realizeaza, verifica, actioneaza
+instrumentele si tehnicile utilizate pentru asigurarea calitatii in proiecte includ auditurile de calitate si inspectia calitatii, care se bazeaza pe esantionare si controlul statistic al proceselor
+obiectivele controlului calitatii in proiecte sunt de a stabili standardele de calitate dorite ce sunt acceptabile pentru clienti, de a descoperi defecte sau variatii ale materiilor prime si ale proceselor de fabricatie pentru a asigura o productie neteda si neintrerupta, si de a evalua metodele si procesele de productie si a sugera imbunatatiri
+o problema de calitate poate fi corectata cat mai curand posibil prin identificarea si analizarea problemei, stabilirea cauzei, stabilirea si implementarea solutiei si monitorizarea rezultatelor
+beneficiile auditurilor de calitate in proiecte sunt de a identifica problemele si oportunitatile de imbunatatire, de a evalua conformitatea cu standardele si regulamentele si de a evalua necesitatea de imbunatatire a performantelor proiectului
+controlul statistic al proceselor poate fi utilizat in asigurarea calitatii in proiecte prin identificarea si analizarea variatiilor in procese si luarea de masuri pentru a imbunatatii performanta proceselor
+ciclul de activitati pentru imbunatatirea calitatii este un proces continuu care include etapele de planificare, realizare, verificare si actiune, care se bazeaza pe feedback-ul obtinut din fiecare etapa pentru a imbunatatii performanta proiectului
+scopul auditurilor de calitate in proiecte este de a evalua performanta proiectului si de a identifica si corecta problemele si oportunitatile de imbunatatire, astfel incat sa se asigure conformitatea cu standardele si regulamentele si sa se imbunatateasca performanta proiectului
+controlul calitatii este esential in managementul proiectelor, deoarece permite identificarea si corectarea problemelor de calitate cat mai curand posibil, astfel incat sa se economiseasca timp si bani
+beneficiile utilizarii diagramelor in planificarea calitatii in proiecte sunt de a identifica si analiza relatiile dintre diferitele probleme si cauze si de a identifica solutiile adecvate pentru a imbunatatii performanta proiectului
+cost-beneficiu analiza este o tehnica utilizata pentru a estima costurile si beneficiile diferitelor alternative de proiectare si poate fi utilizat in managementul calitatii in proiecte pentru a determina cea mai buna alternativa pentru a satisface cerintele de calitate si pentru a reduce costurile
+benchmarking-ul este o metoda de comparare a proceselor proiectului planificat cu cele mai bune practici ale altor proiecte din domeniul respectiv sau chiar din alte domenii, pentru a obtine idei de imbunatatire a proceselor si procedurilor prin care se masoara performantele
+diagrama cauza-efect este un instrument utilizat pentru a stabili relatiile existente intre diferitele cauze si problemele existente sau potentiale pe care le creeaza, aceasta poate fi utilizata in planificarea calitatii pentru a identifica cauzele problemei si pentru a gasi solutii adecvate pentru a le rezolva
+schemele de flux ale proceselor sau sistemelor sunt instrumente utilizate pentru a indica fluxul datelor sau elementelor procesului/sistemului si prin urmare, modalitatile in care se succed diferitele elemente ale procesului / sistemuluiacestea pot fi utilizate in planificarea calitatii pentru a identifica si analiza procesele si pentru a identifica zonele de risc si oportunitati de imbunatatire
+proiectarea experimentelor este o tehnica analitica care permite identificarea variabilelor independente care au o influenta majora asupra variabilelor dependente care se masoara in cursul experimentului, aceasta poate fi utilizata in planificarea calitatii pentru a evalua diferite solutii si pentru a determina cea mai buna solutie pentru a satisface cerintele de calitate
+controlul statistic al proceselor poate fi utilizat pentru asigurarea calitatii in proiecte prin identificarea si analizarea variatiilor in procese si luarea de masuri pentru a imbunatatii performanta proceseloraceasta tehnica poate fi utilizata in controlul calitatii pentru a monitoriza si a mentine performanta proceselor la un nivel acceptabil si pentru a garanta conformitatea cu standardele si cerintele de calitate
+comprehensivitatea, coerenta, controlul, comunicarea, credibilitatea, implicarea, schimbarea, competenta, creativitatea si eficienta costurilor sunt cele 10 caracteristici esentiale pentru eficienta managementului resurselor umane
+managementul resurselor umane are ca obiectiv ajutarea organizatiei sa isi atinga scopurile, folosirea eficienta a abilitatilor si deprinderilor fortei de munca, oferirea organizatiei angajati bine pregatiti si motivati, sporirea nivelului de satisfactie al angajatului fata de locul de munca, comunicarea politicilor de personal tuturor angajatilor, mentinerea eticii profesionale, ajutarea la introducerea schimbarilor benefice pentru indivizi, grupuri, organizatie si pentru public
+activitatile specifice ale managementului resurselor umane sunt: planificarea resursei umane; elaborarea fiselor de post; recrutarea, selectarea si orientarea resursei umane; evaluarea performantelor individuale si colective; dezvoltarea resursei umane; recompense si beneficii specifice locului de munca; sanatatea si siguranta personalului; disciplina, controlul si evaluarea functiilor personalului si programarea muncii
+organizarea resurselor umane este procesul de asignare a rolurilor si a responsabilitatilor, persoanei sau grupului de persoane potrivitaceasta identifica persoanele implicate in proiect si determina care este rolul acestora
+procesul de recrutare este procesul prin care se cauta si se selecteaza candidatii potriviti pentru un post vacat sau viitor intr-o organizatie
+metodele utilizate pentru recrutarea interna sunt: informarea angajatilor intreprinderii prin diferite mijloace, cum ar fi afisajul, notele de serviciu sau publicarea in buletinul de informare al intreprinderii; consultarea fiselor salariatilor pentru a depista potentialii candidati la ocuparea postului; utilizarea planurilor privind perspectiva profesionala in intreprindere, pe baza lor putandu-se stabili candidatii ce intrunesc conditiile pentru ocuparea postuluimetodele utilizate pentru recrutarea externa sunt: candidaturile directe facute organizatiei de catre diferiti solicitanti, contactarea viitorilor absolventi ai liceelor, colegiilor, universitatilor; recrutarea prin internet; angajarea elevilor si studentilor pe durata vacantei de vara; apelarea la oficiile de munca si protectie sociala si la centrele teritoriale de inregistrare a somerilor; contacte permanente cu targurile de locuri de munca; efectuarea de vizite in intreprinderile care recurg la reduceri de personal calificat in meseriile specifice activitatii firmei
+instrumentele si tehnicile utilizate in procesul de recrutare pot include pre-atribuirea personalului pe proiect, negocierea cu managerii functionali sau cu manageri de proiecte din alte proiecte, contractarea de servicii sau resurse umane externe, si utilizarea echipelor virtuale
+gestiunea personalului se refera la administrarea si organizarea angajatilor in cadrul unei organizatii
+metodele de aplanare a conflictelor pot include confruntarea, fortarea, compromisul, nivelarea si retragerea
+teoria z a lui william ouchi sustine ca lucratorii sunt motivati de un sentiment de angajament si este bazata pe mentalitatea japoneza conform careia o persoana lucreaza deregula la o companie 'pe viata', fiind de parere ca daca companiei ii este bine, si lui ii este bine
+principiile teoriei asteptarilor sustin ca angajatii se vor comporta in organizatie corespunzator asteptarilor lor si ca angajatul e cu atat mai productiv, cu cat se asteapta sa fie recompensat mai mult
+managerul poate evolua o echipa prin intermediul alocarii angajatilor, planului de proiect, planului de gestiune a angajatilor, rapoartelor de performanta si recenziilor sau parerilor externe
+metodele de rasplatire a echipei pot include recompense financiare, beneficii suplimentare, recunoasterea performantei si dezvoltarea profesionala
+conflictul poate fi gestionat prin identificarea cauzei, comunicarea deschis si eficienta si prin gasirea unei solutii care sa satisfaca nevoile tuturor partilor implicate
+recrutarea interna poate avea avantaje precum cunoasterea mai buna a candidatilor si o selectie mai rapida, dar poate avea si dezavantaje precum lipsa de diversitate si aparitia favoritismuluirecrutarea externa poate avea avantaje precum aducerea de noi idei si perspective si posibilitatea de a gasi candidati cu abilitati specifice, dar poate fi si mai costisitoare si mai timp-consuming
+factorii ce trebuie avuti in vedere in procesul de recrutare pot include factorii de mediu, activitatile procesului organizational, rolul si responsabilitatile postului, organigramele realizate in etapa de planificare si planul de management al personalului
+rolul managerului in procesul de recrutare este de a defini postul si abilitatile necesare, atragerea candidatilor prin recrutare interna sau externa organizatiei, selectia candidatilor potriviti pentru post, si conducerea interviurilor si testelor pentru a determina cei mai buni candidati pentru post
+avantajele aplicarii teoriei z in managementul resurselor umane sunt ca aceasta poate creste angajamentul angajatilor si productivitatea, datorita faptului ca angajatii se simt mai conectati la companie si doresc sa contribuie la succesul acesteiadezavantajele ar putea fi dificultatea de a atrage si mentine talente de la alte companii si o posibila lipsa de flexibilitate in adaptarea la schimbari in afaceri
+teoria asteptarilor poate fi utilizata in managementul resurselor umane prin stabilirea asteptarilor clare pentru angajatii si recompensarea acestora in functie de performantaaceasta poate creste motivatia si productivitatea angajatilor
+metodele cele mai eficiente de aplanare a conflictelor in cadrul unei echipe de proiect pot include comunicarea deschisa si eficienta, negocierea si gasirea unui compromis, sau utilizarea unui mediator pentru a ajuta la rezolvarea problemelor
+comunicarea este actiunea de a comunica si rezultatul ei, este procesul prin care se transmit mesaje si informatii intre oameni
+comunicarea manageriala este o forma de comunicare interumana, un instrument esential al managerului, prin care acesta isi poate exercita atributiile manageriale
+componentele procesului de comunicare sunt emitatorul si receptorul, mesajul si canalul de comunicare
+procesele managementului comunicarii sunt: planificarea comunicarii, distribuirea informatiei, raportarea performantei si managementul stakeholderilor
+modelul lasswell al comunicarii caracterizeaza abordarea clasica a scolii behavioriste, comunicarea fiind asociata traseului unui stimul (informatie) care produce un raspuns (impact)
+modelul shannon al comunicarii se bazeaza pe notiunile de codificare si decodificare si abordeaza si problematica blocajelor in comunicare
+modelul wiener al comunicarii se bazeaza pe feedback-ul care permite emitatorului sa cunoasca modul de receptionare a mesajului
+comunicarea joaca un rol crucial in cadrul unui proiect, poate preveni problemele ce apar pe parcursul acestuia, si un manager de proiect petrecand aproximativ 80% din timp comunicand
+managementul comunicarii trebuie sa adreseze aspecte precum: ce informatii trebuie sa intre/sa iasa din proiect, cui ii foloseste informatia, cand este informatia necesara si ce format trebuie sa aiba informatia
+un plan de comunicare in cadrul unui proiect este un document care detaliaza modalitatile prin care se vor transmite informatiile si mesajele relevante pentru proiect si catre cine sunt acestea destinate
+planificarea comunicarii este procesul prin care se identifica si se planifica modul in care se vor transmite si primi informatiile necesare in cadrul unui proiect sau organizatie
+distribuirea informatiei are rolul de a asigura ca informatia necesara ajunge la persoanele care au nevoie de ea, la momentul potrivit si in formatul corespunzator
+raportarea performantei in managementul comunicarii se refera la transmiterea si prezentarea informatiilor despre progresul si rezultatele proiectului catre diferiti stakeholderi
+managementul stakeholderilor in managementul comunicarii se refera la identificarea si gestionarea relatiilor cu diferitele parti interesate in proiect, precum si la transmiterea informatiilor relevante acestora
+o comunicare eficienta poate contribui la reusita unui proiect prin asigurarea unei bune colaborari si coordonari intre membrii echipei, precum si prin transmiterea informatiilor necesare la momentul potrivitin contrast, o comunicare ineficienta poate duce la probleme de colaborare, intarzieri si costuri suplimentare in cadrul proiectului
+conform dictionarului explicativ al limbii romane, riscul este un eveniment probabil, generator de pierderi sau pericol posibil
+conform iso/iec guide 73 si iso 31000, riscul este o combinatie intre probabilitatea de producere a unui eveniment si consecintele acestuia, sau posibilitatea de pericol, pierdere, vatamare sau alte consecinte negative
+riscul este un triplet (si, pi, ci) format din scenarii, probabilitati de aparitie si consecinte
+modelul sistemic al managementului de risc consta in patru etape: identificarea riscurilor, cuantificarea riscurilor, dezvoltarea raspunsului la risc si controlul raspunsului la risc
+identificarea riscurilor, analiza de risc, planificarea reducerii riscurilor si implementarea planului de atenuare a riscurilor, monitorizarea si controlul riscului
+riscuri inerente si reziduale, de hazard, de incertitudine si de oportunitate, operationale, de hazard, strategice, financiare, in functie de sursa riscului
+planificarea managementului de risc implica stabilirea persoanelor care raspund de fiecare risc in parte, pe toate nivelurile ierarhice si pe toate categoriile de riscactivitatile cheie sunt identificarea riscului, analiza de risc, planificarea reducerii riscurilor, implementarea planului de atenuare a riscurilor si urmarirea riscurilor
+un plan de management al riscului (rmp) este pregatit de un manager de proiect pentru a aborda riscurile, impactul potential al acestora asupra unui program si consta in modalitati de reducere a acestor riscuri
+metodele de identificare a riscurilor pot include brainstorming-ul, experienta intuitiva a managerilor, interviurile, chestionarele si diagramele
+analiza de macromediu se refera la studierea mediului extern al organizatiei si a factorilor care pot afecta organizatia, cum ar fi schimbarile economice, politice sau socialeanaliza de micromediu se refera la studierea mediului intern al organizatiei si a factorilor care pot afecta performanta acesteia, cum ar fi resursele si capacitatile organizatieiambele analize sunt importante in planificarea managementului riscului, deoarece ajuta la identificarea si evaluarea riscurilor potentiale
+activitatile din cadrul planificarii managementului riscurilor ar include identificarea riscurilor, analiza de risc, planificarea reducerii riscurilor si implementarea planului de atenuare a riscurilor
+etapele identificarii riscurilor ar include brainstorming-ul, utilizarea experientei intuitive a managerilor, interviurile si chestionarele
+brainstorming-ul este o metoda de grup prin care se genereaza idei si se discuta posibile riscuripoate fi utilizat pentru a identifica riscurile potentiale legate de un proiect sau o activitate
+analiza de risc este procesul prin care se evalueaza riscurile identificate si se determina gradul de impact al acestorametodele utilizate in aceasta etapa ar include analiza calitativa si cantitativa a riscului
+planificarea raspunsului la risc implica stabilirea unui plan de actiune pentru a reduce sau gestiona riscurile identificateactivitatile implicate ar include stabilirea responsabilitatilor, alocarea de resurse si monitorizarea si controlul riscului
+colectarea constanta de informatii din diverse surse se asigura prin utilizarea metodelor de colectare de date precum chestionarele, interviurile sau observarea directa, precum si prin utilizarea unui sistem de raportare adecvat pentru a centraliza si analiza aceste informatii
+indicatorii utilizati pentru a evalua performanta proiectului pot include indicatori precum costul, timpul, calitatea, riscul, satisfactia clientului si utilizarea resurselor
+mecanismele de analiza sistematica utilizate pentru a imbunatati procedurile existente in proiect pot include metode precum analiza pareto, diagrama ishikawa si metoda 5m
+actiunile necesare pentru a evalua rezultatele proiectului in ceea ce priveste controlul includ analizarea performantei proiectului, compararea performantei actuale cu cea planificata si luarea de masuri corective daca este necesar
+elementele organizatiei care se monitorizeaza pentru a identifica abaterile de la obiectivele proiectului pot include activitatile, resursele si rezultatele proiectului
+pentru a se asigura ca proiectul respecta regulile si principiile managementului de proiect in ceea ce priveste auditul, se pot utiliza metode precum revizuirea documentelor, intervievarea personalului si observarea directa
+informatii necesare pentru efectuarea proiectului in timp util includ progresele intermediare, evolutia indicatorilor de performanta, utilizarea resurselor si eventualele schimbari socio-economice
+progresele intermediare si evolutia indicatorilor de performanta se evalueaza prin utilizarea metodelor precum analiza variatiei si analiza trendurilor
+schimbarile socio-economice care pot rezulta din implementarea unui proiect se monitorizeaza prin utilizarea metodelor precum analiza impactului si evaluarea performantei
+modalitatile utilizate pentru a furniza informatii necesare pentru efectuarea proiectului catre toate partile interesate in timp util includ raportarea periodica, comunicarea eficienta si utilizarea unui sistem de gestiune a proiectului
+metodele utilizate pentru a colecta si analiza datele in timpul monitorizarii proiectului pot include chestionare, interviuri, observatii directe, analiza de date si utilizarea unui sistem de raportare adecvat pentru a centraliza si analiza informatiile
+metodele utilizate pentru a identifica si corecta abaterile de la planificare in proiect pot include analiza variatiei, analiza tendintelor, raportarea periodica si utilizarea unui sistem de gestiune a proiectului
+principalele indicatori utilizati pentru a evalua performanta proiectului pot include costul, timpul, calitatea, riscul, satisfactia clientului si utilizarea resurselor
+se asigura ca informatiile colectate sunt relevante si actuale prin utilizarea unui sistem de raportare adecvat, prin verificarea si actualizarea periodica a acestor informatii si prin asigurarea ca acestea sunt colectate de la surse adecvate si relevante
+echipa joaca un rol important in monitorizarea proiectului prin furnizarea de informatii si prin participarea la analize si evaluariperformanta echipei poate fi evaluata prin utilizarea metodelor precum observatia directa, interviurile si chestionarele
+implicatiile schimbarilor propuse in proiect se evalueaza prin analiza impactului si evaluarea performantei, prin identificarea riscurilor si prin luarea in considerare a feedback-ului de la partile interesate
+regulile si principiile care trebuie respectate in timpul auditului proiectului includ impartialitatea, obiectivitatea, profesionalismul si confidentialitatea
+se asigura ca auditul proiectului este impartial si obiectiv prin utilizarea unui plan de audit impartial si prin utilizarea mai multor auditori pentru a revizui proiectul
+metodele utilizate pentru a evalua riscurile si problemele in timpul monitorizarii proiectului pot include analiza de risc si evaluarea performantei, brainstorming-ul si utilizarea unui sistem de gestiune a riscurilor
+monitorizarea proiectului joaca un rol important in luarea deciziilor prin furnizarea de informatii relevante si actuale si prin identificarea problemelor sau abaterilor de la planificareaceasta poate ajuta la imbunatatirea proiectului prin luarea de masuri corective si prin adaptarea planificarii la schimbarile neprevazute
+procesele incluse in managementul achizitiilor de proiect pot include planificarea, gestionarea, controlul si inchiderea achizitiilor
+contractul este un instrument legal ce precizeaza regulile si acordurile pentru achizitie si poate fi utilizat ca intrare pentru multe procese din cadrul proiectului
+managementul achizitiilor poate fi definit ca activitatile prin care firmele isi procura produsele, serviciile, capabilitatile si cunostintele necesare pentru functionarea in cele mai bune conditii
+etapele planificarii achizitiilor pot include identificarea nevoilor proiectului care pot fi indeplinite prin achizitie, luarea in considerare a metodei de achizitie, a termenului de licitatie si implementare a livrarii, analizarea si monitorizarea proiectului
+metodele de atribuire utilizate in managementul achizitiilor pot include acord-cadru, licitatie electronica si sistemul dinamic de achizitie
+modalitatile de achizitie utilizate in managementul achizitiilor pot include licitatia deschisa, licitatia restransa, dialogul competitiv, parteneriatul pentru inovare, negocierea fara publicare prealabila, concursul de solutii, procedura simplificata
+"make" sau "buy" reprezinta decizia de a produce un bun sau serviciu intern sau de a achizitiona acest bun sau serviciu de la o alta companie
+factorii care pot influenta decizia privind "make" sau "buy" pot include costurile, capacitatea interna, calitatea, termenele de livrare si riscurile
+achizitiile din cadrul unui proiect pot fi gestionate prin utilizarea unui plan de achizitii, evaluarea ofertelor de achizitie si monitorizarea si controlul procesului de achizitie
+inchiderea achizitiilor poate implica finalizarea contractelor, plata furnizorilor si documentarea procesului de achizitie
+utilizarea unui plan de achizitii poate ajuta la identificarea nevoilor proiectului care pot fi indeplinite prin achizitie, luarea in considerare a metodei de achizitie, termenelor de licitatie si implementare a livrarii, analizarea si monitorizarea proiectului
+metodele utilizate pentru a evalua ofertele de achizitie pot include evaluarea pe baza pretului, evaluarea pe baza calitatii, evaluarea pe baza unui punctaj de puncte sau evaluarea pe baza unui raport calitate-pret
+regulile si principiile care trebuie respectate in procesul de achizitie pot include respectarea legislatiei aplicabile, transparenta si echitatea procesului, respectarea procedurilor de licitatie stabilite si evaluarea obiectiva a ofertelor
+transparenta si echitatea procesului de achizitie poate fi asigurata prin utilizarea unor proceduri si criterii clare de evaluare a ofertelor, informarea tuturor potentialilor furnizori despre oportunitatile de achizitie si prin respectarea principiului non-discriminarii
+implicatiile legale ale procesului de achizitie pot include raspunderea legala pentru incalcarea legislatiei aplicabile, riscul de a fi atacate in instanta si riscul de a pierde contractul daca nu sunt respectate regulile si principiile stabilite
+avantajele utilizarii matricii cadru logic in managementul proiectului sunt: planificarea sistematica, luarea in considerare a viziunii tuturor persoanelor interesate (stakeholders), stabilirea modalitatilor de finalizare cu succes a proiectului in raport cu ipotezele de baza, metoda de prezentare a continutului unui proiect intr-un mod in care este posibila stabilirea logica si sistematica a obiectivelor proiectului
+logica verticala se refera la relatia intre obiectivele proiectului (coloana i), relatia cauzala intre diferitele niveluri ale obiectivelor (coloana i) si principalele ipoteze si incertitudinile in afara posibilitatilor de control a directorului de proiect (coloana iv)
+logica orizontala se refera la evaluarea efectelor proiectului si a resurselor folosite (coloana ii, iii), precum si la identificarea si specificarea preconditiilor si a factorilor care pot influenta proiectul (coloana iv)
+relatia cauzala intre diferitele niveluri ale obiectivelor in matricea cadru logic poate fi identificata prin analiza logica si sistematica a obiectivelor proiectului si prin stabilirea unui plan de actiune pentru atingerea acestor obiective
+principalele ipoteze si incertitudinile in afara posibilitatilor de control a directorului de proiect pot fi specificate prin analiza situatiei proiectului si a factorilor externi care ar putea afecta implementarea si sustenabilitatea pe termen lung a proiectului
+efectele proiectului si ale resurselor folosite pot fi evaluate prin monitorizarea si evaluarea continua a progresului proiectului si prin compararea rezultatelor obtinute cu obiectivele stabilite
+pasii necesari pentru elaborarea matricii cadru logic a unui proiect includ: identificarea obiectivelor proiectului, stabilirea relatiilor cauzale intre diferitele niveluri ale obiectivelor, specificarea principalele ipoteze si incertitudinilor, evaluarea efectelor proiectului si a resurselor folosite, si elaborarea unui plan de monitorizare si evaluare a proiectului
+pentru a se asigura ca matricea cadru logic este adaptata la necesitatile si cerintele grupului tinta, este important sa se implice grupul tinta in procesul de elaborare a acesteia si sa se ia in considerare feedback-ul acestuia in timpul procesului de elaborare
+asigurarea ca matricea cadru logic este utilizata in procesul de monitorizare si evaluare a proiectului poate fi realizata prin integrarea acesteia in planul de monitorizare si evaluare al proiectului, precum si prin asigurarea ca toate partile interesate sunt familiarizate cu utilizarea acesteia
