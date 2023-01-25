@@ -117,6 +117,11 @@ The following elements of the application can be customized:
 -   The Smartinis Chatbot does not have the ability to change the background image
 -   The Smartinis Chatbot does not have the ability to change the font
 
+## **How to use Smartini
+
+-   Every message input should be written in lowercase characters, otherwise Smartini will not understand the message
+-   If the user wants to ask Smartini a question, the input must have the "?" character at the end of it
+
 ## **Conclusion**
 
 The Smartinis Chatbot is a simple chatbot application that demonstrates the basics of how a chatbot works. It can be used as a starting point for building more advanced chatbots with natural language processing capabilities.
