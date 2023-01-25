@@ -10,9 +10,9 @@
 using namespace std;
 
 // Global variables
-#define B_HEIGHT 50
+#define B_HEIGHT 35
 int WIDTH = 700;
-int HEIGTH = 1200;
+int HEIGTH = 900;
 
 std::string found_question;
 std::string response;
@@ -34,12 +34,27 @@ float drawSpeechBouble(sf::RenderWindow& window, sf::Color color, sf::Color txtC
 void btnCallback(tgui::EditBox::Ptr eb, std::vector<Message>* msgs);
 void loadQA(std::string path, std::unordered_map<std::string, std::string>& qa);
 void loadSwears(std::string path, std::vector<std::string>& swears);
-size_t levenshtein_distance(const string& s1, const string& s2);
+size_t levenshtein_distance(const std::string& s1, const std::string& s2);
 bool isQuestion(std::string input);
 bool isNegation(std::string input);
+std::string findCourse(std::string str);
+std::string censorMessage(std::string message);
 sf::Vector2f textFormattedSize(std::string str);
 
 int main() {
+
+	// Credits
+	std::cout << "This application was developed by the following students from University POLITEHNICA Bucharest / Automatic Control & Computer Science Faculty within the Erasmus+ Project 2020-1-CZ01-KA226-HE-094408:" << std::endl;
+	std::cout << "Pirvu Ciprian" << std::endl;
+	std::cout << "Patrascu Ioana" << std::endl;
+	std::cout << "Ranja Beatris" << std::endl;
+	std::cout << "Antor Andrei" << std::endl;
+	std::cout << "Beresteanu Alexandra" << std::endl;
+	std::cout << "Cruceru Raluca" << std::endl;
+	std::cout << "Militaru David" << std::endl;
+	std::cout << "Minca Andrei" << std::endl;
+	std::cout << "Teachers: M. Caramihai, Daniel Chis" << std::endl;
+
 
 	// Load questions and answers and swear words
 	std::unordered_map<std::string, std::string> qa;
@@ -90,10 +105,19 @@ int main() {
 
 	// List of sent messages
 	std::vector<Message> messages;
-	messages.push_back({ "Hello", true });
-	messages.push_back({ "World", true });
-	messages.push_back({ "Programmed to work", false });
-	messages.push_back({ "And not to feel", true });
+	messages.push_back({ "This application was developed by the following students from University POLITEHNICA Bucharest / Automatic Control & Computer Science Faculty within the Erasmus+ Project 2020-1-CZ01-KA226-HE-094408:", false });
+	messages.push_back({ "Pirvu Ciprian" , false });
+	messages.push_back({ "Patrascu Ioana" , false });
+	messages.push_back({ "Ranja Beatris" , false });
+	messages.push_back({ "Antor Andrei" , false });
+	messages.push_back({ "Beresteanu Alexandra" , false });
+	messages.push_back({ "Cruceru Raluca" , false });
+	messages.push_back({ "Militaru David" , false });
+	messages.push_back({ "Minca Andrei" , false });
+	messages.push_back({ "Teachers: " , false });
+	messages.push_back({ "M. Caramihai" , false });
+	messages.push_back({ "Daniel Chis" , false });
+	
 
 	// GUI elements from TGUI
 	tgui::Gui gui{ window };
@@ -328,17 +352,8 @@ void btnCallback(tgui::EditBox::Ptr eb, std::vector<Message>* msgs) {
 
 	std::string message = eb->getText().toStdString() + " ";		// This variable contains the message sent by the user
 	std::string msgClear = eb->getText().toStdString();
-	// Remove swear words
-	for (int i = 0; i < swearsPtr->size(); i++) {
-		int wPos = message.find((*swearsPtr)[i]);
-		if (wPos != std::string::npos) {
-			while (message[wPos] != ' ') {
-				message[wPos] = '*';
-				wPos++;
-			}
-		}
-	}
-	std::cout << message << std::endl;
+	// Remove swear words											
+	message = censorMessage(message);
 
 	eb->setText("");
 	msgs->pop_back();
@@ -355,7 +370,7 @@ void btnCallback(tgui::EditBox::Ptr eb, std::vector<Message>* msgs) {
 		int total = levenshtein_distance(message, it->first); 
 		while (it != (*qaPtr).end()) {
 			int tempTotal = levenshtein_distance(message, it->first);
-
+			// - count keywords
 			if (tempTotal <= total) {
 				total = tempTotal;
 				found_question = it->first;
@@ -364,15 +379,18 @@ void btnCallback(tgui::EditBox::Ptr eb, std::vector<Message>* msgs) {
 			++it;
 		}
 		// If the found question is close enough to the input...
-		if (total <= message.size()/2) {
+		if (total <= message.size()/2 + 8/2) {
 			// ... checks if Smartini forgot the answer (check becomes 2)
 			int chance = rand() % 100;
 			if ((chance == 1) && (found_question != "hello")) {
 				msgs->push_back({ "I think I forgot the answer. Can you remind me ?", false });
 				check = 2;
 			}
-			// If he remembers, he shows the answer
+			// If he remembers, he shows the answer as well as the course he found the answer in, in case it's in a course
 			else {
+				string course = findCourse(found_question);
+				if (course != "")
+					msgs->push_back({ course, false });
 				msgs->push_back({ response, false });
 			}
 		}
@@ -403,7 +421,6 @@ void btnCallback(tgui::EditBox::Ptr eb, std::vector<Message>* msgs) {
 
 			while (existent_file) {
 				getline(existent_file, line);
-				cout << line << endl;
 				if (existent_file.eof())
 					break;
 				new_file << line << "\n";
@@ -417,8 +434,8 @@ void btnCallback(tgui::EditBox::Ptr eb, std::vector<Message>* msgs) {
 			}
 			existent_file.close();
 			new_file.close();
-			remove("qa.txt");
-			rename("newqa.txt", "qa.txt");
+			//std::remove("qa.txt");
+			//std::rename("newqa.txt", "qa.txt");
 			check = 0;
 		}
 		// If the input is a negation (the user doesn't know either), Smartini sighs in disappointment...
@@ -581,3 +598,75 @@ bool isNegation(std::string input) {
 	}
 	return false;
 }
+
+std::string findCourse(string str) {
+	string result = "";
+	if (str.find("COURSE1") != string::npos)
+		result = "I've found this in Course 1";
+	if (str.find("COURSE2") != string::npos)
+		result = "I've found this in Course 2";
+	if (str.find("COURSE3") != string::npos)
+		result = "I've found this in Course 3";
+	if (str.find("COURSE4") != string::npos)
+		result = "I've found this in Course 4";
+	if (str.find("COURSE5") != string::npos)
+		result = "I've found this in Course 5";
+	if (str.find("COURSE6") != string::npos)
+		result = "I've found this in Course 6";
+	if (str.find("COURSE7") != string::npos)
+		result = "I've found this in Course 7";
+	if (str.find("COURSE8") != string::npos)
+		result = "I've found this in Course 8";
+	if (str.find("COURSE9") != string::npos)
+		result = "I've found this in Course 9";
+	if (str.find("COURSEX") != string::npos)
+		result = "I've found this in Course 10";
+	if (str.find("COURSEY") != string::npos)
+		result = "I've found this in Course 11";
+	if (str.find("COURSEZ") != string::npos)
+		result = "I've found this in Course 12";
+
+	return result;
+}
+
+std::string censorMessage(std::string message) {
+	vector<string> words;
+	string word;
+	string result = "";
+	std::stringstream s(message);
+
+	while(getline(s, word, ' '))
+		words.push_back(word);
+
+	for (int i = 0; i < swearsPtr->size(); i++) {
+		for (auto it = words.begin(); it != words.end(); it++) {
+			if (*it == (*swearsPtr)[i]) {
+				int word_size = (*it).size();
+				for (int j = 0; j < word_size; j++)
+					(*it)[j] = '*';
+			}
+		}
+	}
+	for (auto it = words.begin(); it != words.end(); it++) {
+		result = result + *it + " ";
+	}
+	return result;
+}
+
+// Possible future implementations:
+/*
+	- eSpeak???
+	+ modified global variable text dimensions
+	+ fix the swear words (don't use the string::find function, otherwise "hello" that contains "hell" will be censored)
+	- encrypt swear words
+	- add popping bubbles while Smartini writes, put 1 second delay before sending the answer
+	- check why certain words become split in the popped message in GUI
+	+ translate questions and append the course to every one of them "-COURSEX"
+	+ show the course ("I've found this in course x" in case the levenshtein distance is short enough)
+	- select some keywords as well as synonimes for each question, then substract from the total levenshtein distance a certain 
+	  value if a keyword has been found (also for questions 3 and 22, if i give a synonim for question 3 i get the 22th answer)
+	  When doing so, levenshtein distance should be q_length/2 +8 - (length of keywords found)
+	- write in documentation about Levenshtein distance (NLP method)
+	- fix file problem
+	- course 3 answers are not in the question order and that's fucked-up.
+*/
