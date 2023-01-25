@@ -1,4 +1,6 @@
 ﻿#include <iostream>
+#include <cstdlib>
+#include <ctime>
 #include <algorithm>
 #include <sstream>
 #include <fstream>
@@ -55,6 +57,7 @@ int main() {
 	std::cout << "Minca Andrei" << std::endl;
 	std::cout << "Teachers: M. Caramihai, Daniel Chis" << std::endl;
 
+	srand((int)time(0)); // random isnțt pseudo-random anymore.
 
 	// Load questions and answers and swear words
 	std::unordered_map<std::string, std::string> qa;
@@ -379,7 +382,7 @@ void btnCallback(tgui::EditBox::Ptr eb, std::vector<Message>* msgs) {
 			++it;
 		}
 		// If the found question is close enough to the input...
-		if (total <= message.size()/2 + 8/2) {
+		if (total <= message.size()/2 + 8) {
 			// ... checks if Smartini forgot the answer (check becomes 2)
 			int chance = rand() % 100;
 			if ((chance == 1) && (found_question != "hello")) {
@@ -434,8 +437,8 @@ void btnCallback(tgui::EditBox::Ptr eb, std::vector<Message>* msgs) {
 			}
 			existent_file.close();
 			new_file.close();
-			//std::remove("qa.txt");
-			//std::rename("newqa.txt", "qa.txt");
+			std::remove("qa.txt");
+			std::rename("newqa.txt", "qa.txt");
 			check = 0;
 		}
 		// If the input is a negation (the user doesn't know either), Smartini sighs in disappointment...
@@ -668,5 +671,5 @@ std::string censorMessage(std::string message) {
 	  When doing so, levenshtein distance should be q_length/2 +8 - (length of keywords found)
 	- write in documentation about Levenshtein distance (NLP method)
 	- fix file problem
-	- course 3 answers are not in the question order.
+	- course 3 answers are not in the question order and that's fucked-up.
 */
