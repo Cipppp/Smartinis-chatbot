@@ -671,5 +671,5 @@ std::string censorMessage(std::string message) {
 	  When doing so, levenshtein distance should be q_length/2 +8 - (length of keywords found)
 	- write in documentation about Levenshtein distance (NLP method)
 	- fix file problem
-	- course 3 answers are not in the question order and that's fucked-up.
+	- course 3 answers are not in the question order
 */
