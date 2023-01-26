@@ -1,5 +1,5 @@
 ###QUESTIONS###
-hello
+hello(greeting)
 what are the common characteristics of a project?-COURSE1
 what are the primary activities associated with operations?-COURSE1
 what is the difference between projects and operations?-COURSE1
@@ -425,16 +425,16 @@ The role of the manager in the recruitment process is to define the position and
 The advantages of applying Theory Z in human resource management are that it can increase employee commitment and productivity, due to the fact that employees feel more connected to the company and want to contribute to its success. The disadvantages could be the difficulty to attract and maintain talent from other companies and a possible lack of flexibility in adapting to changes in business.
 The Theory of Expectations can be used in the management of human resources by establishing clear expectations for employees and rewarding them according to performance. This can increase the motivation and productivity of employees.
 The most effective methods of resolving conflicts within a project team may include open and effective communication, negotiation and compromise, or the use of a mediator to help resolve issues.
-Communication is the action of communicating and its result, it is the process by which messages and information are transmitted between people.
 Managerial communication is a form of interpersonal communication, an essential tool of the manager, through which he can exercise his managerial duties.
+Communication is the action of communicating and its result, it is the process by which messages and information are transmitted between people.
 The components of the communication process are the sender and the receiver, the message and the communication channel.
+A communication plan within a project is a document that details the ways in which information and messages relevant to the project will be transmitted and to whom they are intended.
 The communication management processes are: communication planning, information distribution, performance reporting and stakeholder management.
 The Lasswell model of communication characterizes the classic approach of the behaviorist school, communication being associated with the route of a stimulus (information) that produces a response (impact).
 The Shannon model of communication is based on the notions of coding and decoding and also addresses the problem of communication blockages.
 The Wiener model of communication is based on feedback that allows the sender to know how to receive the message.
 Communication plays a crucial role within a project, it can prevent problems that arise during it, and a project manager spending approximately 80% of his time communicating. (long talk, the poorness of the human)
 Communication management must address issues such as: what information must enter/exit the project, who uses the information, when the information is needed and what format the information must have.
-A communication plan within a project is a document that details the ways in which information and messages relevant to the project will be transmitted and to whom they are intended.
 Communication planning is the process by which the way in which the necessary information will be transmitted and received within a project or organization is identified and planned.
 The purpose of distributing information is to ensure that the necessary information reaches the people who need it, at the right time and in the appropriate format.
 Performance reporting in communication management refers to the transmission and presentation of information about the progress and results of the project to different stakeholders.

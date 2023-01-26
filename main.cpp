@@ -381,11 +381,37 @@ void btnCallback(tgui::EditBox::Ptr eb, std::vector<Message>* msgs) {
 			}
 			++it;
 		}
+		// If the found question is "hello", then the input might be too short and the levenshtein criteria must be refined
+		if (found_question == "hello(greeting)") {
+			int is_greeting = 0;
+			std::vector<std::string> greetings = { "hello", "heya", "hi", "greetings", "good morning", "good evening" };
+			for (auto iter = greetings.begin(); iter != greetings.end(); iter++) {
+				cout << levenshtein_distance(message, *iter) << " ";
+				if (levenshtein_distance(message, *iter) <= message.size() / 2) {
+					is_greeting = 1;
+					break;
+				}
+			}
+			if (is_greeting == 0) {
+				found_question = "";
+				response = "";
+				total = INT_MAX;
+				msgs->push_back({ "I don't understand what you said", false });
+				if (isQuestion(message)) {
+					msgs->push_back({ "Do you know " + message, false });
+					new_question = message;
+					check = 1;
+				}
+			}
+			else {
+				msgs->push_back({ response, false });
+			}
+		}
 		// If the found question is close enough to the input...
-		if (total <= message.size()/2 + 8) {
+		else if (total <= message.size()/2 + 6) {
 			// ... checks if Smartini forgot the answer (check becomes 2)
 			int chance = rand() % 100;
-			if ((chance == 1) && (found_question != "hello")) {
+			if ((chance == 1) && (found_question != "hello(greeting)")) {
 				msgs->push_back({ "I think I forgot the answer. Can you remind me ?", false });
 				check = 2;
 			}
