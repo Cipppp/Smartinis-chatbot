@@ -386,7 +386,6 @@ void btnCallback(tgui::EditBox::Ptr eb, std::vector<Message>* msgs) {
 			int is_greeting = 0;
 			std::vector<std::string> greetings = { "hello", "heya", "hi", "greetings", "good morning", "good evening" };
 			for (auto iter = greetings.begin(); iter != greetings.end(); iter++) {
-				cout << levenshtein_distance(message, *iter) << " ";
 				if (levenshtein_distance(message, *iter) <= message.size() / 2) {
 					is_greeting = 1;
 					break;
