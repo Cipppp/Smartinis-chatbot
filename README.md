@@ -15,6 +15,10 @@
 -   SFML library
 -   TGUI library
 
+### **Demo**
+
+Here is a link to a demo video of the Smartinis Chatbot: [https://we.tl/t-syzPD6loxr](https://we.tl/t-syzPD6loxr)
+
 ### **Installation**
 
 **1. Clone the repository**
@@ -45,7 +49,7 @@ The following functionality is provided by the Smartinis Chatbot:
 -   The chatbot also loads a set of swear words from a text file (swear.txt) and stores them in a std::vector.
 -   When the user types in a message and presses the send button or the return key, the message is checked for swear words using the std::find() function and any swear words found are replaced with asterisks (\*). The modified message is then added to the list of messages sent by the user.
 -   The chatbot then looks up the user's message in the std::unordered_map of pre-defined questions and answers. If a match is found, the corresponding answer is added to the list of messages sent by the chatbot. If no match is found, the chatbot sends the message "I don't understand what you said".
--   The chatbot also includes a feature to change the color scheme of the application by clicking on the moon icon 
+-   The chatbot also includes a feature to change the color scheme of the application by clicking on the moon icon
 -   The chatbot is able to find an appropiate match to the user input, thus providing the respective answer.
 
 ## **GUI Elements**
@@ -132,5 +136,5 @@ Smartinis - Smartinis
 
 ## **Folder source**
 
-In order to get the entire application library, do access this link: 
+In order to get the entire application library, do access this link:
 https://we.tl/t-P0nAT1mWxq. If not, replace the main file from the posted archive with the main file posted separately.
